@@ -1,0 +1,3002 @@
+[
+  {
+    "chapter": 1,
+    "front": "What does RPN mean in British Columbia, Alberta, Saskatchewan, and Manitoba?",
+    "back": "Registered Psychiatric Nurse, a distinct, separately regulated profession with its own scope of practice and licensure exam, unique to these four provinces.",
+    "id": 1
+  },
+  {
+    "chapter": 1,
+    "front": "What does RPN mean in Ontario, and why does this matter?",
+    "back": "In Ontario, RPN means Registered Practical Nurse, equivalent to a Licensed Practical Nurse elsewhere. It is an entirely different credential from Western Canada's Registered Psychiatric Nurse.",
+    "id": 2
+  },
+  {
+    "chapter": 1,
+    "front": "Name three large provincial mental hospitals mentioned as part of Canada's institutional era.",
+    "back": "Riverview Hospital in British Columbia, Alberta Hospital Edmonton, and the Selkirk Mental Health Centre in Manitoba.",
+    "id": 3
+  },
+  {
+    "chapter": 1,
+    "front": "What medication development in the 1950s helped enable deinstitutionalization?",
+    "back": "The introduction of the first effective antipsychotic medications, most notably chlorpromazine, which made outpatient treatment realistic for many long-stay patients.",
+    "id": 4
+  },
+  {
+    "chapter": 1,
+    "front": "What is transinstitutionalization?",
+    "back": "The shifting of long-term psychiatric care from hospitals onto jails, shelters, and emergency departments when community mental health infrastructure fails to expand fast enough to replace closed institutional beds.",
+    "id": 5
+  },
+  {
+    "chapter": 1,
+    "front": "When did Riverview Hospital in British Columbia close its last clinical unit?",
+    "back": "2012, after a gradual, decades-long wind-down of services.",
+    "id": 6
+  },
+  {
+    "chapter": 1,
+    "front": "Name the four provincial regulatory colleges for Registered Psychiatric Nurses.",
+    "back": "CRPNBC in British Columbia, CRPNA in Alberta, RPNAS in Saskatchewan, and CRPNM in Manitoba.",
+    "id": 7
+  },
+  {
+    "chapter": 1,
+    "front": "What is RPNRC and what is its main function?",
+    "back": "The Registered Psychiatric Nurse Regulators of Canada, the national body through which the four provincial colleges collaborate on entry-to-practice competencies and the shared RPNCE examination, without itself licensing individual nurses.",
+    "id": 8
+  },
+  {
+    "chapter": 1,
+    "front": "Is psychiatric nursing licensure in Canada provincial or national?",
+    "back": "Provincial. Each of the four colleges independently licenses, disciplines, and sets continuing competence requirements within its own province.",
+    "id": 9
+  },
+  {
+    "chapter": 1,
+    "front": "Approximately how many questions are on the RPNCE, and over what time period?",
+    "back": "Approximately 200 multiple-choice questions administered over about four hours.",
+    "id": 10
+  },
+  {
+    "chapter": 1,
+    "front": "What proportion of RPNCE items are case-based or scenario-based?",
+    "back": "Roughly 60 to 80 percent of items are written as case-based or scenario-based questions rather than isolated fact recall.",
+    "id": 11
+  },
+  {
+    "chapter": 1,
+    "front": "Name the three cognitive levels tested on the RPNCE.",
+    "back": "Knowledge, application, and critical thinking.",
+    "id": 12
+  },
+  {
+    "chapter": 1,
+    "front": "How does an RPN's educational foundation differ from a mental-health-focused RN's?",
+    "back": "An RPN's degree is built around psychiatric, mental health, addictions, and developmental disability nursing as the core subject from year one, while an RN builds a broad generalist foundation first and may add psychiatric expertise afterward.",
+    "id": 13
+  },
+  {
+    "chapter": 1,
+    "front": "What CNA credential recognizes an RN's advanced mental health expertise?",
+    "back": "Certification in psychiatric and mental health nursing through the Canadian Nurses Association.",
+    "id": 14
+  },
+  {
+    "chapter": 1,
+    "front": "List the seven RPNCE competency categories.",
+    "back": "Therapeutic Relationships and Therapeutic Use of Self; Body of Knowledge and Application; Collaborative Practice; Advocacy; Quality Care and Client Safety; Health Promotion; and Ethical, Professional, and Legal Responsibilities.",
+    "id": 15
+  },
+  {
+    "chapter": 2,
+    "front": "Define therapeutic use of self.",
+    "back": "The conscious, deliberate application of one's own personality, communication style, and life experience in service of a client's growth, rather than relating unconsciously as in ordinary social life.",
+    "id": 16
+  },
+  {
+    "chapter": 2,
+    "front": "Why is self-awareness described as an ongoing practice rather than a state achieved once?",
+    "back": "New clients, situations, and life experiences constantly surface fresh material that shapes a nurse's reactions, so self-awareness must be revisited continuously across an entire career.",
+    "id": 17
+  },
+  {
+    "chapter": 2,
+    "front": "What is the clearest practical marker separating a therapeutic relationship from a social one?",
+    "back": "The direction and purpose of self-disclosure: in a therapeutic relationship, the nurse's personal information is shared only when it serves a specific clinical purpose, never to meet the nurse's own social needs.",
+    "id": 18
+  },
+  {
+    "chapter": 2,
+    "front": "What is the difference between a boundary crossing and a boundary violation?",
+    "back": "A boundary crossing is a minor, correctable deviation that can be addressed before harm occurs; a boundary violation causes actual harm to the client and the relationship.",
+    "id": 19
+  },
+  {
+    "chapter": 2,
+    "front": "Define transference.",
+    "back": "A client's unconscious redirection of feelings or relational patterns formed with an earlier significant figure, often a parent, onto the nurse in the present relationship.",
+    "id": 20
+  },
+  {
+    "chapter": 2,
+    "front": "Define countertransference.",
+    "back": "The nurse's own unconscious emotional reaction to a client, shaped by the nurse's personal history or current circumstances rather than anything objectively unusual about the client.",
+    "id": 21
+  },
+  {
+    "chapter": 2,
+    "front": "What are the four practical steps for managing transference or countertransference?",
+    "back": "Notice the disproportionate reaction, pause to examine it, bring it to supervision or a trusted colleague, and consciously choose a response guided by the client's needs.",
+    "id": 22
+  },
+  {
+    "chapter": 2,
+    "front": "Name Carl Rogers's three core conditions for therapeutic change.",
+    "back": "Unconditional positive regard, empathy, and congruence.",
+    "id": 23
+  },
+  {
+    "chapter": 2,
+    "front": "How does empathy differ from sympathy?",
+    "back": "Empathy understands and reflects a client's experience from the client's own frame of reference; sympathy feels sorry for the client from an external vantage point.",
+    "id": 24
+  },
+  {
+    "chapter": 2,
+    "front": "What does congruence mean in a therapeutic relationship?",
+    "back": "The nurse's outward words and behaviour authentically match internal thoughts and feelings, avoiding a false or performed professional persona.",
+    "id": 25
+  },
+  {
+    "chapter": 2,
+    "front": "Give an example of validating a client's feeling without endorsing their beliefs or behaviour.",
+    "back": "Saying it makes sense that losing control over a decision feels enraging, without agreeing the admission was illegitimate or excusing any unsafe behaviour.",
+    "id": 26
+  },
+  {
+    "chapter": 2,
+    "front": "What non-verbal signals might indicate a client's rising anxiety during an interaction?",
+    "back": "Closing off posture, breaking eye contact, and speaking more quickly.",
+    "id": 27
+  },
+  {
+    "chapter": 2,
+    "front": "What is secondary traumatic stress, and how does it differ from burnout?",
+    "back": "Secondary traumatic stress arises from repeated indirect exposure to clients' trauma, producing intrusive thoughts, numbing, and hypervigilance; burnout arises more generally from chronic workplace stress and high caseloads, though the two often overlap.",
+    "id": 28
+  },
+  {
+    "chapter": 2,
+    "front": "Name three individual-level self-care practices that protect against secondary traumatic stress.",
+    "back": "Regular clinical supervision or peer debriefing, maintaining relationships and interests outside of work, and attending to adequate sleep, nutrition, and physical activity.",
+    "id": 29
+  },
+  {
+    "chapter": 2,
+    "front": "Why is self-care considered a precondition for clinical competence rather than a separate personal matter?",
+    "back": "A depleted or burned-out nurse has a measurably reduced capacity for the empathy, patience, and self-awareness that therapeutic use of self depends on.",
+    "id": 30
+  },
+  {
+    "chapter": 3,
+    "front": "Who developed the phase model of the nurse-client relationship used in psychiatric nursing?",
+    "back": "Hildegard Peplau, in her 1952 text Interpersonal Relations in Nursing.",
+    "id": 31
+  },
+  {
+    "chapter": 3,
+    "front": "Name the three phases of the nurse-client relationship used in most contemporary curricula.",
+    "back": "Orientation, working, and resolution.",
+    "id": 32
+  },
+  {
+    "chapter": 3,
+    "front": "What are the central tasks of the orientation phase?",
+    "back": "Establishing trust, clarifying the purpose and structure of the relationship, and completing an initial assessment of the client's needs and history.",
+    "id": 33
+  },
+  {
+    "chapter": 3,
+    "front": "Why is a client's anxiety often highest during the orientation phase?",
+    "back": "Uncertainty about a new relationship and a new care setting is itself a significant stressor, and trust has not yet been established.",
+    "id": 34
+  },
+  {
+    "chapter": 3,
+    "front": "What characterizes the working phase of the nurse-client relationship?",
+    "back": "The client, feeling safer, becomes more willing to explore difficult material and actively work toward previously identified goals; transference and countertransference are most likely to surface here.",
+    "id": 35
+  },
+  {
+    "chapter": 3,
+    "front": "What tasks belong to the resolution phase?",
+    "back": "Reviewing progress, consolidating gains, addressing the client's feelings about the ending, and ensuring a clear follow-up plan is in place.",
+    "id": 36
+  },
+  {
+    "chapter": 3,
+    "front": "Why can a poorly managed resolution phase be especially harmful to a client with a history of loss or abandonment?",
+    "back": "An abrupt ending with no discussion can become a painful re-enactment of earlier relational trauma.",
+    "id": 37
+  },
+  {
+    "chapter": 3,
+    "front": "Name the four attitudes that build rapport in a therapeutic relationship.",
+    "back": "Mutual respect, genuineness, acceptance, and collaboration.",
+    "id": 38
+  },
+  {
+    "chapter": 3,
+    "front": "What does acceptance mean when a client discloses stigmatized material such as active substance use?",
+    "back": "Receiving the disclosure without visible shock, disgust, or moral judgment, without necessarily endorsing the behaviour disclosed.",
+    "id": 39
+  },
+  {
+    "chapter": 3,
+    "front": "Name four types of boundaries established early in a therapeutic relationship.",
+    "back": "Role boundaries, boundaries around the service offered, confidentiality limits, and boundaries around frequency and length of contact.",
+    "id": 40
+  },
+  {
+    "chapter": 3,
+    "front": "Which boundaries are never subject to negotiation with a client?",
+    "back": "Safety-related boundaries, including confidentiality limits tied to imminent risk, and the fundamental role boundary separating a professional from a personal relationship.",
+    "id": 41
+  },
+  {
+    "chapter": 3,
+    "front": "Why should a nurse revisit a client's stated goals throughout the relationship rather than treating an initial goal as fixed?",
+    "back": "A client's goals often shift as trust and reflection deepen through the working phase, differing from what was stated during the anxious early days of orientation.",
+    "id": 42
+  },
+  {
+    "chapter": 3,
+    "front": "What distinguishes therapeutic communication from non-therapeutic communication?",
+    "back": "Therapeutic communication is client-centred, conveys genuine acceptance, and invites exploration; non-therapeutic communication centres the nurse's own comfort and can discourage further disclosure.",
+    "id": 43
+  },
+  {
+    "chapter": 3,
+    "front": "Define active listening.",
+    "back": "Giving full attention to both the content and emotional undertone of what a client communicates, demonstrated through eye contact, open posture, minimal interruption, and reflective responses.",
+    "id": 44
+  },
+  {
+    "chapter": 3,
+    "front": "What is the purpose of therapeutic silence?",
+    "back": "Allowing a deliberate pause gives a client time to process a difficult thought or feeling and formulate a response without pressure.",
+    "id": 45
+  },
+  {
+    "chapter": 3,
+    "front": "Distinguish clarifying from restating.",
+    "back": "Clarifying checks the nurse's understanding of an ambiguous statement by asking the client to say more; restating repeats back the essential content of a clear statement in different words to confirm understanding.",
+    "id": 46
+  },
+  {
+    "chapter": 4,
+    "front": "What is a broad opening, and give an example.",
+    "back": "A general invitation for the client to direct the conversation, such as 'What would you like to talk about today?'",
+    "id": 47
+  },
+  {
+    "chapter": 4,
+    "front": "Why are open-ended questions generally preferred over closed questions during assessment?",
+    "back": "A client's own spontaneous language often reveals more diagnostically and relationally relevant information than a series of closed yes-or-no questions.",
+    "id": 48
+  },
+  {
+    "chapter": 4,
+    "front": "What is the purpose of reflecting feelings, and how does it differ from restating?",
+    "back": "Reflecting names the emotion underlying a statement, while restating repeats back the content in different words; reflecting focuses on feeling, restating focuses on content.",
+    "id": 49
+  },
+  {
+    "chapter": 4,
+    "front": "Define offering self, with an example phrase.",
+    "back": "Making oneself available through simple, low-demand presence without requiring the client to talk, such as saying 'I have some time right now if you'd like company.'",
+    "id": 50
+  },
+  {
+    "chapter": 4,
+    "front": "How should a nurse respond to a client's fixed delusional belief using presenting reality?",
+    "back": "Offer the nurse's own honest observation alongside the client's experience without directly arguing the belief is false, acknowledging that the experience feels very real to the client.",
+    "id": 51
+  },
+  {
+    "chapter": 4,
+    "front": "What is the purpose of summarizing near the end of an interaction?",
+    "back": "It confirms the nurse's understanding matches the client's, allows the client to add or correct anything important, and reinforces concrete plans that emerged.",
+    "id": 52
+  },
+  {
+    "chapter": 4,
+    "front": "Why is giving advice considered a non-therapeutic technique?",
+    "back": "It can undermine the client's own problem-solving capacity, may not fit the client's full circumstances, and can lead the client to blame the nurse if the advice fails.",
+    "id": 53
+  },
+  {
+    "chapter": 4,
+    "front": "Why does false reassurance tend to backfire?",
+    "back": "It shuts down further disclosure because the client reads it as a signal the nurse either does not understand the seriousness of the concern or is unwilling to engage honestly.",
+    "id": 54
+  },
+  {
+    "chapter": 4,
+    "front": "Why should a nurse avoid asking a client 'why' a feeling or behaviour occurred?",
+    "back": "A why question often lands as an implicit demand to justify oneself, provoking defensiveness or a superficial answer rather than genuine reflection.",
+    "id": 55
+  },
+  {
+    "chapter": 4,
+    "front": "What is minimizing, and why does it discourage disclosure?",
+    "back": "Responding to a significant disclosure with a comment that downplays its importance, such as 'it's not that big a deal,' which teaches the client the experience is insufficiently serious to share.",
+    "id": 56
+  },
+  {
+    "chapter": 4,
+    "front": "Why is a literal response to figurative language risky, using 'I just want to disappear' as an example?",
+    "back": "It may miss a statement carrying real safety significance, requiring direct follow-up regarding possible thoughts of self-harm or suicide, rather than a literal question about destinations.",
+    "id": 57
+  },
+  {
+    "chapter": 4,
+    "front": "How should communication be adapted for a client experiencing acute psychosis?",
+    "back": "Use short, simple, concrete sentences, avoid arguing directly about delusional or hallucinatory content, and maintain a calm tone with adequate personal space.",
+    "id": 58
+  },
+  {
+    "chapter": 4,
+    "front": "How should communication be adapted for a client experiencing mania?",
+    "back": "Keep communication brief and clearly structured, set calm firm limits, redirect one topic at a time, and avoid either confronting or reinforcing grandiose content directly.",
+    "id": 59
+  },
+  {
+    "chapter": 4,
+    "front": "How should communication be adapted for a client experiencing severe depression?",
+    "back": "Allow considerably more time for a response, use shorter and simpler questions, and rely heavily on therapeutic silence rather than filling every pause.",
+    "id": 60
+  },
+  {
+    "chapter": 4,
+    "front": "Where in this textbook is verbal de-escalation for aggression covered in full depth?",
+    "back": "In the later chapter on Crisis Intervention, alongside the broader safety and risk-assessment competencies it connects to.",
+    "id": 61
+  },
+  {
+    "chapter": 5,
+    "front": "What five-step framework describes how the working phase of the therapeutic relationship operates on a continuing basis?",
+    "back": "A continuing cycle of assessment, planning, implementation, and evaluation that repeats throughout the working phase, not a single event completed once at admission.",
+    "id": 62
+  },
+  {
+    "chapter": 5,
+    "front": "Why must goals set during the orientation phase often be renegotiated during the working phase?",
+    "back": "Because they are frequently too broad or optimistic once the client's actual pace of change becomes clear, and openly revising them keeps the care plan a living document.",
+    "id": 63
+  },
+  {
+    "chapter": 5,
+    "front": "What is the nurse's role during conflict resolution in the working phase?",
+    "back": "To help each party articulate their position, identify the real point of disagreement, and work toward an outcome both can accept, rather than taking a side.",
+    "id": 64
+  },
+  {
+    "chapter": 5,
+    "front": "What is the goal of crisis intervention, and how is it time-limited?",
+    "back": "To restore the client to their prior level of functioning by mobilizing existing coping resources and supports, not to resolve the underlying condition that made them vulnerable.",
+    "id": 65
+  },
+  {
+    "chapter": 5,
+    "front": "How does counselling within the RPN's scope differ from formal psychotherapy?",
+    "back": "It is problem-focused and present-oriented, helping the client examine a specific difficulty and choose a course of action, rather than conducting formal psychotherapy.",
+    "id": 66
+  },
+  {
+    "chapter": 5,
+    "front": "What distinguishes teaching from coaching in the working phase?",
+    "back": "Teaching imparts information the client needs, such as relapse warning signs; coaching supports the client in practising and refining a skill they are already learning.",
+    "id": 67
+  },
+  {
+    "chapter": 5,
+    "front": "What turns a self-disclosure into a boundary violation?",
+    "back": "When it shifts focus onto the nurse's own experiences, asks the client to care for the nurse's feelings, or reveals private information with no clinical rationale.",
+    "id": 68
+  },
+  {
+    "chapter": 5,
+    "front": "What core motivational interviewing principle helps a nurse respond to client resistance?",
+    "back": "Rolling with resistance: reflecting the client's objection back and asking them to say more, rather than countering it with a rebuttal or arguing for change directly.",
+    "id": 69
+  },
+  {
+    "chapter": 5,
+    "front": "What is a rescue fantasy, and why is it a countertransference risk?",
+    "back": "A nurse's conviction that they alone truly understand a client and can succeed where others failed; it often produces boundary erosion such as extended sessions or bypassing the team.",
+    "id": 70
+  },
+  {
+    "chapter": 5,
+    "front": "What structural resource should a nurse use when uncertain about a countertransference reaction?",
+    "back": "Clinical supervision or peer consultation, which gives the nurse a structured, external space to examine the reaction before it distorts clinical judgment.",
+    "id": 71
+  },
+  {
+    "chapter": 5,
+    "front": "Name the three core tasks of a well-conducted termination.",
+    "back": "Summarizing outcomes together with the client, evaluating the therapeutic process itself, and doing grief work around the ending.",
+    "id": 72
+  },
+  {
+    "chapter": 5,
+    "front": "Why do clients sometimes show a temporary regression as termination approaches?",
+    "back": "It is a predictable reaction to the loss of the relationship, not evidence that no real progress was made, and should be met with steadiness rather than alarm.",
+    "id": 73
+  },
+  {
+    "chapter": 5,
+    "front": "What is the standard professional position on a former client proposing a personal relationship after discharge?",
+    "back": "Provincial regulatory colleges generally hold that the professional relationship does not convert into a personal one, and this boundary should be communicated warmly but unambiguously.",
+    "id": 74
+  },
+  {
+    "chapter": 5,
+    "front": "What three groups of clients require different follow-up plans at termination?",
+    "back": "Clients needing no further service, clients transitioning to a different level of care via a warm handoff, and clients showing new or unresolved risk needing reassessment.",
+    "id": 75
+  },
+  {
+    "chapter": 5,
+    "front": "What five elements belong in a complete termination note?",
+    "back": "Goals and progress against each one, the client's own evaluation of the process, any risk assessment performed, the specific follow-up or referral plan, and relapse warning signs reviewed.",
+    "id": 76
+  },
+  {
+    "chapter": 6,
+    "front": "What does the acronym ADPIE stand for in the nursing process?",
+    "back": "Assessment, Diagnosis, Planning, Implementation, and Evaluation.",
+    "id": 77
+  },
+  {
+    "chapter": 6,
+    "front": "How does a nursing diagnosis differ from a psychiatric medical diagnosis?",
+    "back": "A nursing diagnosis describes the client's functional or behavioural response to a health condition and guides the nursing plan of care; it sits alongside, not in place of, the medical diagnosis.",
+    "id": 78
+  },
+  {
+    "chapter": 6,
+    "front": "What organization maintains the standardized nursing diagnosis taxonomy used in psychiatric nursing?",
+    "back": "NANDA International, which traces its origin to a 1973 conference and now organizes diagnoses into thirteen domains.",
+    "id": 79
+  },
+  {
+    "chapter": 6,
+    "front": "What does the nursing diagnosis Risk for Self-Directed Violence drive in a care plan?",
+    "back": "The frequency of safety checks, the level of environmental risk reduction such as removing access to means, and the intensity of one-to-one observation.",
+    "id": 80
+  },
+  {
+    "chapter": 6,
+    "front": "What distinguishes Social Isolation from a client who has simply chosen solitude?",
+    "back": "Social Isolation requires that the client experiences the lack of contact as a negative or unwanted state, not a comfortable choice.",
+    "id": 81
+  },
+  {
+    "chapter": 6,
+    "front": "What makes a psychiatric care plan goal measurable?",
+    "back": "It specifies an observable, concrete behaviour, such as using a named coping technique independently in specific situations, rather than a vague internal state like feeling better.",
+    "id": 82
+  },
+  {
+    "chapter": 6,
+    "front": "How do short-term and long-term care plan goals function together?",
+    "back": "Short-term goals are the measurable steps achievable within days to weeks that build toward a long-term goal spanning the client's broader engagement with a service.",
+    "id": 83
+  },
+  {
+    "chapter": 6,
+    "front": "What is the central idea of Hildegard Peplau's interpersonal relations model?",
+    "back": "That nursing is fundamentally an interpersonal process, with the nurse-client relationship itself functioning as the primary vehicle of therapeutic change.",
+    "id": 84
+  },
+  {
+    "chapter": 6,
+    "front": "List the several roles Peplau described the nurse occupying over the course of a relationship.",
+    "back": "Stranger, resource person, teacher, counsellor, and surrogate.",
+    "id": 85
+  },
+  {
+    "chapter": 6,
+    "front": "How does Dorothea Orem's self-care model extend into psychiatric-specific practice?",
+    "back": "Self-care deficits extend beyond physical activities of daily living into symptom self-monitoring, medication self-administration, and self-regulation of emotional states.",
+    "id": 86
+  },
+  {
+    "chapter": 6,
+    "front": "What are the four domains of the bio-psychosocial-spiritual assessment model?",
+    "back": "Biological, psychological, social, and spiritual, each contributing a distinct and non-interchangeable piece of the overall clinical picture.",
+    "id": 87
+  },
+  {
+    "chapter": 6,
+    "front": "When is a cultural assessment model the most appropriate primary framework?",
+    "back": "When a client's presentation, help-seeking behaviour, or interpretation of symptoms is shaped significantly by cultural background.",
+    "id": 88
+  },
+  {
+    "chapter": 6,
+    "front": "What is a genogram, and what does it make visible?",
+    "back": "A tool mapping relationships, significant events, and patterns across at least three generations, revealing recurring family patterns an individual interview alone typically cannot surface.",
+    "id": 89
+  },
+  {
+    "chapter": 6,
+    "front": "When should a community assessment model replace an individual client assessment framework?",
+    "back": "When the focus shifts from one client to a population, such as a community mental health team planning services across a geographic catchment area.",
+    "id": 90
+  },
+  {
+    "chapter": 6,
+    "front": "What three sources does evidence-informed practice integrate?",
+    "back": "The best available research evidence, the clinician's accumulated clinical expertise, and the individual client's own values and preferences.",
+    "id": 91
+  },
+  {
+    "chapter": 6,
+    "front": "Why is relying on clinical expertise alone considered a risk in evidence-informed practice?",
+    "back": "It risks perpetuating outdated or ineffective practices simply because they feel familiar, without being checked against current research evidence.",
+    "id": 92
+  },
+  {
+    "chapter": 7,
+    "front": "What seven domains make up a comprehensive psychiatric history?",
+    "back": "Chief complaint, history of present illness, past psychiatric history, medical history, family history, social and developmental history, and substance use history.",
+    "id": 93
+  },
+  {
+    "chapter": 7,
+    "front": "Why is the chief complaint recorded in the client's own words?",
+    "back": "Because the client's own framing of the problem is itself important data about how they understand their own experience, even if it differs from the eventual clinical impression.",
+    "id": 94
+  },
+  {
+    "chapter": 7,
+    "front": "What is poverty of speech, and what condition is it often associated with?",
+    "back": "An unusually sparse quantity of speech despite a normal rate, frequently seen alongside negative symptoms of psychosis or severe depression.",
+    "id": 95
+  },
+  {
+    "chapter": 7,
+    "front": "Define mood as used in the mental status examination.",
+    "back": "The client's own subjectively reported, sustained emotional state, elicited by directly asking how they have been feeling and recorded largely in their own words.",
+    "id": 96
+  },
+  {
+    "chapter": 7,
+    "front": "Define affect as used in the mental status examination.",
+    "back": "The nurse's objective observation of the client's emotional expression during the interaction, including its range, intensity, appropriateness, and stability.",
+    "id": 97
+  },
+  {
+    "chapter": 7,
+    "front": "What are the four descriptors of affect range, from most to least expressive?",
+    "back": "Full, restricted, blunted, and flat.",
+    "id": 98
+  },
+  {
+    "chapter": 7,
+    "front": "What does it mean when affect is described as incongruent?",
+    "back": "The displayed affect does not match the content being discussed, such as laughing while describing a recent bereavement.",
+    "id": 99
+  },
+  {
+    "chapter": 7,
+    "front": "Distinguish circumstantiality from tangentiality.",
+    "back": "Circumstantiality eventually returns to and answers the original question after a detailed detour; tangentiality departs from the topic and never returns to it.",
+    "id": 100
+  },
+  {
+    "chapter": 7,
+    "front": "What is flight of ideas, and how is it distinguished from circumstantiality?",
+    "back": "A rapid, pressured stream of thought connected by superficial associative links, distinguished from circumstantiality by its speed and the tenuous nature of the connections.",
+    "id": 101
+  },
+  {
+    "chapter": 7,
+    "front": "What is the difference between a delusion and an obsession?",
+    "back": "A delusion is a fixed, false belief held with full conviction; an obsession is a recurrent intrusive thought the client typically recognizes as excessive or unreasonable.",
+    "id": 102
+  },
+  {
+    "chapter": 7,
+    "front": "What sequence does a systematic suicide risk assessment follow?",
+    "back": "Passive ideation, active ideation, presence of a plan, specificity and lethality of the plan, access to means, and history of prior attempts.",
+    "id": 103
+  },
+  {
+    "chapter": 7,
+    "front": "What is the key difference between a hallucination and an illusion?",
+    "back": "A hallucination occurs with no external stimulus present; an illusion is a misperception of an actual external stimulus that is present.",
+    "id": 104
+  },
+  {
+    "chapter": 7,
+    "front": "Why should new-onset visual or tactile hallucinations in an older adult prompt medical evaluation first?",
+    "back": "Because they often signal a medical or substance-related cause such as delirium rather than a new primary psychiatric disorder.",
+    "id": 105
+  },
+  {
+    "chapter": 7,
+    "front": "What does the PHQ-9 measure, and why does its ninth item require special attention?",
+    "back": "Core depressive symptom severity over the preceding two weeks; its ninth item addresses self-harm thoughts and requires direct follow-up whenever endorsed regardless of the total score.",
+    "id": 106
+  },
+  {
+    "chapter": 7,
+    "front": "Why is the MoCA generally considered more sensitive than the MMSE for mild cognitive impairment?",
+    "back": "It includes more demanding tasks, such as clock-drawing and a challenging executive function component, that the MMSE does not include.",
+    "id": 107
+  },
+  {
+    "chapter": 7,
+    "front": "What four items make up the CAGE-AID screening tool?",
+    "back": "Whether the client has felt they should Cut down, felt Annoyed by criticism, felt Guilty about use, or used a substance as an Eye-opener.",
+    "id": 108
+  },
+  {
+    "chapter": 8,
+    "front": "What is the amygdala's primary role in emotional processing?",
+    "back": "Rapid evaluation of incoming sensory information for potential threat, often before slower cortical regions finish processing the same information.",
+    "id": 109
+  },
+  {
+    "chapter": 8,
+    "front": "How does chronic stress affect the hippocampus?",
+    "back": "Sustained elevation of stress hormones has a measurable, damaging effect on hippocampal volume and function, impairing memory and the ability to distinguish safe from dangerous contexts.",
+    "id": 110
+  },
+  {
+    "chapter": 8,
+    "front": "What regulatory role does the prefrontal cortex play over the amygdala?",
+    "back": "It exerts top-down regulatory influence, allowing a person to modulate an initial fear reaction with reasoned appraisal rather than acting on the amygdala's raw signal alone.",
+    "id": 111
+  },
+  {
+    "chapter": 8,
+    "front": "What is the hypothalamic-pituitary-adrenal axis, and why does it matter clinically?",
+    "back": "The physiological pathway linking psychological stress to hormonal changes, most notably elevated cortisol, which affects mood, memory, and immune function over time.",
+    "id": 112
+  },
+  {
+    "chapter": 8,
+    "front": "Which neurotransmitter's excess activity is most strongly implicated in the positive symptoms of psychosis?",
+    "back": "Dopamine, particularly excess activity within specific brain pathways, which is why antipsychotic medications work primarily by blocking dopamine receptors.",
+    "id": 113
+  },
+  {
+    "chapter": 8,
+    "front": "Why do antipsychotic medications frequently cause movement-related side effects?",
+    "back": "Because they block dopamine receptors broadly, reducing dopaminergic activity in the motor control pathway as well as the pathway linked to psychotic symptoms.",
+    "id": 114
+  },
+  {
+    "chapter": 8,
+    "front": "What is the pharmacological rationale behind selective serotonin reuptake inhibitors?",
+    "back": "They increase serotonin's availability at the synapse by blocking its reabsorption into the presynaptic neuron, addressing reduced serotonergic activity linked to depression and anxiety.",
+    "id": 115
+  },
+  {
+    "chapter": 8,
+    "front": "What role does norepinephrine play in psychiatric symptoms?",
+    "back": "It contributes to arousal, alertness, and the stress response, and its dysregulation is implicated in depressive disorders and the hyperarousal symptoms of anxiety and PTSD.",
+    "id": 116
+  },
+  {
+    "chapter": 8,
+    "front": "What is GABA's primary function in the central nervous system?",
+    "back": "It is the brain's principal inhibitory neurotransmitter, reducing neuronal excitability and playing a central role in anxiolysis.",
+    "id": 117
+  },
+  {
+    "chapter": 8,
+    "front": "Why does chronic heavy alcohol use produce dangerous withdrawal symptoms?",
+    "back": "Chronic use produces compensatory reduced GABA receptor sensitivity and increased glutamate activity, so abrupt withdrawal leaves the nervous system with reduced inhibition and increased excitation.",
+    "id": 118
+  },
+  {
+    "chapter": 8,
+    "front": "What does it mean that most major psychiatric conditions are polygenic?",
+    "back": "Many different genetic variants, each contributing a small individual effect, combine to produce an overall level of genetic vulnerability rather than a single causative gene.",
+    "id": 119
+  },
+  {
+    "chapter": 8,
+    "front": "What is epigenetics, and how does it relate to psychiatric risk?",
+    "back": "Chemical modification of gene expression without altering the DNA sequence itself, which can be influenced by environmental exposures such as early-life stress and trauma.",
+    "id": 120
+  },
+  {
+    "chapter": 8,
+    "front": "State the core claim of the stress-diathesis (vulnerability-stress) model.",
+    "back": "An underlying vulnerability made of genetic, epigenetic, and neurodevelopmental factors interacts with environmental stressors to determine whether and when a psychiatric condition manifests.",
+    "id": 121
+  },
+  {
+    "chapter": 8,
+    "front": "Why can the same stressful event affect two people very differently, according to the stress-diathesis model?",
+    "back": "Because each person's underlying vulnerability differs, so an identical stressor can trigger illness in someone with higher vulnerability but not in someone with lower vulnerability.",
+    "id": 122
+  },
+  {
+    "chapter": 8,
+    "front": "Is the DSM-5-TR's diagnostic structure categorical, dimensional, or both?",
+    "back": "Fundamentally categorical, sorting presentations into discrete diagnostic categories, though it increasingly incorporates dimensional elements such as severity specifiers and cross-cutting symptom measures.",
+    "id": 123
+  },
+  {
+    "chapter": 8,
+    "front": "What is the appropriate scope of an RPN's use of the DSM-5-TR?",
+    "back": "Using its criteria to anticipate symptom patterns, recognize shifts warranting reassessment, and communicate with the team, without functioning as the clinician who assigns the diagnosis.",
+    "id": 124
+  },
+  {
+    "chapter": 9,
+    "front": "What is the minimum duration required for a diagnosis of generalized anxiety disorder?",
+    "back": "Excessive, difficult-to-control worry present more days than not for at least six months, spanning multiple areas of life.",
+    "id": 125
+  },
+  {
+    "chapter": 9,
+    "front": "List the associated symptoms of generalized anxiety disorder beyond the worry itself.",
+    "back": "Restlessness or feeling keyed up, easy fatigability, difficulty concentrating, irritability, muscle tension, and sleep disturbance.",
+    "id": 126
+  },
+  {
+    "chapter": 9,
+    "front": "What does the GAD-7 measure and how is it scored?",
+    "back": "A seven-item self-report screening tool for generalized anxiety disorder severity; each item is scored zero to three, for a total out of twenty-one.",
+    "id": 127
+  },
+  {
+    "chapter": 9,
+    "front": "What physiological mechanism produces the perioral and fingertip tingling during a panic attack?",
+    "back": "Hyperventilation lowers arterial carbon dioxide, producing respiratory alkalosis.",
+    "id": 128
+  },
+  {
+    "chapter": 9,
+    "front": "Define derealization and depersonalization as they occur during a panic attack.",
+    "back": "Derealization is a sense that surroundings are unreal or dreamlike; depersonalization is a sense of being detached from one's own body or mental processes.",
+    "id": 129
+  },
+  {
+    "chapter": 9,
+    "front": "How long must persistent concern or behavioural change last after a panic attack to meet criteria for panic disorder?",
+    "back": "At least one month of persistent concern about another attack, worry about its implications, or significant avoidance behaviour.",
+    "id": 130
+  },
+  {
+    "chapter": 9,
+    "front": "Name medical conditions that can mimic a panic attack.",
+    "back": "Hyperthyroidism, cardiac arrhythmia, pheochromocytoma, pulmonary embolism, and caffeine or stimulant intoxication or withdrawal.",
+    "id": 131
+  },
+  {
+    "chapter": 9,
+    "front": "What distinguishes the blood-injection-injury phobia subtype physiologically from other phobia subtypes?",
+    "back": "It can produce an initial heart rate increase followed by a vasovagal drop in heart rate and blood pressure, sometimes causing fainting, rather than sustained tachycardia.",
+    "id": 132
+  },
+  {
+    "chapter": 9,
+    "front": "What is the core feature that defines social anxiety disorder?",
+    "back": "Marked fear of scrutiny or negative evaluation by others in social or performance situations, causing avoidance or intense distress for six months or more.",
+    "id": 133
+  },
+  {
+    "chapter": 9,
+    "front": "List the situations used to define agoraphobia.",
+    "back": "Using public transportation, being in open spaces, being in enclosed spaces, standing in line or in a crowd, or being outside the home alone; fear of two or more situations is required.",
+    "id": 134
+  },
+  {
+    "chapter": 9,
+    "front": "Is agoraphobia diagnosed independently of panic disorder in the DSM-5-TR?",
+    "back": "Yes, a client can be diagnosed with agoraphobia without ever meeting full criteria for panic disorder, though the two frequently co-occur.",
+    "id": 135
+  },
+  {
+    "chapter": 9,
+    "front": "What is the five-four-three-two-one grounding technique used for?",
+    "back": "Redirecting attention from catastrophic internal sensations to the immediate environment, using five things seen, four touched, three heard, two smelled, and one tasted.",
+    "id": 136
+  },
+  {
+    "chapter": 9,
+    "front": "Describe the diaphragmatic breathing pattern taught for panic attack management.",
+    "back": "A slow inhale through the nose for a count of four, a brief hold, then a slower exhale through the mouth for a count of six.",
+    "id": 137
+  },
+  {
+    "chapter": 9,
+    "front": "What is a fear hierarchy and how is it used in graded exposure?",
+    "back": "A ranked list of feared situations from least to most anxiety-provoking, used to structure progressively harder exposure steps without allowing escape.",
+    "id": 138
+  },
+  {
+    "chapter": 9,
+    "front": "What is habituation in the context of exposure therapy?",
+    "back": "The natural decline of anxiety that occurs when a client remains in a feared situation long enough without escaping.",
+    "id": 139
+  },
+  {
+    "chapter": 9,
+    "front": "How can well-meaning family accommodation worsen an anxiety disorder?",
+    "back": "Family members completing tasks the client avoids, such as answering phones or doing all the shopping, reinforces avoidance rather than helping the client build tolerance.",
+    "id": 140
+  },
+  {
+    "chapter": 10,
+    "front": "How many symptoms, over what time period, are required for a major depressive episode?",
+    "back": "At least five symptoms present during the same two-week period, representing a change from baseline, including depressed mood or anhedonia.",
+    "id": 141
+  },
+  {
+    "chapter": 10,
+    "front": "Define anhedonia.",
+    "back": "Markedly diminished interest or pleasure in nearly all activities.",
+    "id": 142
+  },
+  {
+    "chapter": 10,
+    "front": "What duration defines persistent depressive disorder in adults?",
+    "back": "Depressed mood for most of the day, more days than not, for at least two years.",
+    "id": 143
+  },
+  {
+    "chapter": 10,
+    "front": "What is informally described as double depression?",
+    "back": "A major depressive episode superimposed on an underlying persistent depressive disorder.",
+    "id": 144
+  },
+  {
+    "chapter": 10,
+    "front": "At what age range is disruptive mood dysregulation disorder diagnosed?",
+    "back": "Between ages six and eighteen.",
+    "id": 145
+  },
+  {
+    "chapter": 10,
+    "front": "What two core features define disruptive mood dysregulation disorder?",
+    "back": "Severe, recurrent temper outbursts out of proportion to the situation three or more times weekly, plus a persistently irritable or angry mood between outbursts.",
+    "id": 146
+  },
+  {
+    "chapter": 10,
+    "front": "What is the defining timing pattern of premenstrual dysphoric disorder?",
+    "back": "Symptoms occur in the final week before menses, improve within days after menses onset, and are minimal or absent the week following menses.",
+    "id": 147
+  },
+  {
+    "chapter": 10,
+    "front": "What does the ninth item of the PHQ-9 specifically ask about?",
+    "back": "Thoughts of being better off dead or of hurting oneself; a positive response requires an immediate full suicide risk assessment regardless of the total score.",
+    "id": 148
+  },
+  {
+    "chapter": 10,
+    "front": "What is the peripartum onset specifier?",
+    "back": "A major depressive episode that begins during pregnancy or within four weeks following delivery.",
+    "id": 149
+  },
+  {
+    "chapter": 10,
+    "front": "Describe melancholic features of a major depressive episode.",
+    "back": "A near-total loss of pleasure, mood that fails to improve even temporarily with good events, a distinct quality of mood, often with early morning awakening and appetite or weight loss.",
+    "id": 150
+  },
+  {
+    "chapter": 10,
+    "front": "Describe atypical features of a major depressive episode.",
+    "back": "Mood reactivity, increased appetite or weight gain, hypersomnia, a leaden feeling in the limbs, and long-standing sensitivity to rejection.",
+    "id": 151
+  },
+  {
+    "chapter": 10,
+    "front": "How does hypothyroidism mimic major depressive disorder?",
+    "back": "It produces fatigue, weight gain, low mood, and slowed cognition overlapping with a major depressive episode; thyroid-stimulating hormone testing rules it out.",
+    "id": 152
+  },
+  {
+    "chapter": 10,
+    "front": "What principle underlies behavioural activation?",
+    "back": "The principle that mood and activity are reciprocally linked; engaging in activity without waiting for motivation tends to improve mood over time.",
+    "id": 153
+  },
+  {
+    "chapter": 10,
+    "front": "Why does suicide risk not decline in a simple linear fashion as depression improves?",
+    "back": "Energy and motivation can return before hopelessness resolves, so a client may regain the capacity to act on suicidal thoughts before the underlying depressive thinking lifts.",
+    "id": 154
+  },
+  {
+    "chapter": 10,
+    "front": "Name a validated screening tool used specifically for perinatal depression.",
+    "back": "The Edinburgh Postnatal Depression Scale.",
+    "id": 155
+  },
+  {
+    "chapter": 10,
+    "front": "How does depression in older adults often present differently than the classic picture?",
+    "back": "With more prominent cognitive complaints such as memory difficulty and slowed thinking, sometimes mistaken for early dementia (pseudodementia), and with underreported sadness.",
+    "id": 156
+  },
+  {
+    "chapter": 11,
+    "front": "What is the minimum duration for a manic episode, absent hospitalization?",
+    "back": "At least one week, present most of the day, nearly every day.",
+    "id": 157
+  },
+  {
+    "chapter": 11,
+    "front": "What is the minimum duration for a hypomanic episode?",
+    "back": "At least four consecutive days.",
+    "id": 158
+  },
+  {
+    "chapter": 11,
+    "front": "List three ways a manic episode differs from a hypomanic episode.",
+    "back": "A longer minimum duration of one week versus four days, marked functional impairment or the need for hospitalization, and the possible presence of psychotic features, which hypomania never includes.",
+    "id": 159
+  },
+  {
+    "chapter": 11,
+    "front": "What is required for a diagnosis of bipolar I disorder?",
+    "back": "Only a single lifetime manic episode; a major depressive episode is not required for the diagnosis.",
+    "id": 160
+  },
+  {
+    "chapter": 11,
+    "front": "What is required for a diagnosis of bipolar II disorder, and what excludes it?",
+    "back": "At least one hypomanic episode and one major depressive episode; a full manic episode at any point changes the diagnosis to bipolar I disorder.",
+    "id": 161
+  },
+  {
+    "chapter": 11,
+    "front": "How long must cyclothymic disorder symptoms be present, and what is the maximum symptom-free gap allowed?",
+    "back": "At least two years in adults, with no symptom-free period longer than two months.",
+    "id": 162
+  },
+  {
+    "chapter": 11,
+    "front": "What defines the mixed features specifier?",
+    "back": "A manic or hypomanic episode with at least three prominent depressive symptoms occurring simultaneously, or the reverse pattern in a major depressive episode.",
+    "id": 163
+  },
+  {
+    "chapter": 11,
+    "front": "What defines the rapid cycling specifier?",
+    "back": "Four or more distinct mood episodes occurring within a single twelve-month period.",
+    "id": 164
+  },
+  {
+    "chapter": 11,
+    "front": "During which phase of bipolar illness is suicide risk highest?",
+    "back": "During depressive and mixed episodes, rather than during pure mania.",
+    "id": 165
+  },
+  {
+    "chapter": 11,
+    "front": "How does stimulant intoxication mimic mania?",
+    "back": "Cocaine or methamphetamine use can produce elevated mood, pressured speech, grandiosity, and decreased sleep need resembling a manic episode.",
+    "id": 166
+  },
+  {
+    "chapter": 11,
+    "front": "How is bipolar disorder distinguished from attention-deficit/hyperactivity disorder in a differential diagnosis?",
+    "back": "Attention-deficit/hyperactivity disorder has an early, consistently present onset in childhood rather than an episodic, time-limited mood elevation with features like grandiosity and decreased sleep need.",
+    "id": 167
+  },
+  {
+    "chapter": 11,
+    "front": "How do borderline personality disorder mood shifts differ from a hypomanic or manic episode?",
+    "back": "They are typically brief, often hours, reactive to interpersonal triggers, and lack the sustained multi-day cluster of decreased sleep need, grandiosity, and pressured speech.",
+    "id": 168
+  },
+  {
+    "chapter": 11,
+    "front": "Why are finger foods and portable fluids recommended during acute mania?",
+    "back": "A manic client's impaired insight and constant motion prevent recognition of hunger and thirst; portable options allow intake without requiring the client to sit through a full meal.",
+    "id": 169
+  },
+  {
+    "chapter": 11,
+    "front": "What is the recommended focus when a manic client expresses grandiose beliefs?",
+    "back": "Redirect toward safety and structure rather than arguing about or debating the plausibility of the belief's content.",
+    "id": 170
+  },
+  {
+    "chapter": 11,
+    "front": "What is anosognosia in the context of mania?",
+    "back": "A severe absence of insight in which the client does not believe anything is wrong.",
+    "id": 171
+  },
+  {
+    "chapter": 11,
+    "front": "Why is maintaining sleep-wake regularity considered one of the most protective relapse-prevention behaviours in bipolar disorder?",
+    "back": "Sleep disruption is both an early symptom of an emerging manic episode and an independent trigger capable of precipitating one.",
+    "id": 172
+  },
+  {
+    "chapter": 12,
+    "front": "Define positive symptoms of psychosis.",
+    "back": "Experiences and behaviours added on top of normal functioning, such as hallucinations, delusions, and disorganized speech or behaviour.",
+    "id": 173
+  },
+  {
+    "chapter": 12,
+    "front": "What is the most common delusional theme in schizophrenia?",
+    "back": "Persecutory delusions, the belief that one is being harassed, conspired against, or targeted for harm.",
+    "id": 174
+  },
+  {
+    "chapter": 12,
+    "front": "Distinguish referential delusions from somatic delusions.",
+    "back": "Referential delusions involve the belief that neutral events or media carry a personal message; somatic delusions are false beliefs about one's own body or health.",
+    "id": 175
+  },
+  {
+    "chapter": 12,
+    "front": "List the five negative symptoms of schizophrenia.",
+    "back": "Avolition, alogia, flat affect, anhedonia, and asociality.",
+    "id": 176
+  },
+  {
+    "chapter": 12,
+    "front": "Distinguish flat affect from anhedonia.",
+    "back": "Flat affect is an outward reduction in emotional expression; anhedonia is an internal reduction in the capacity to experience pleasure.",
+    "id": 177
+  },
+  {
+    "chapter": 12,
+    "front": "Name the three cognitive symptom domains affected in schizophrenia.",
+    "back": "Attention, working memory, and executive function.",
+    "id": 178
+  },
+  {
+    "chapter": 12,
+    "front": "What is the key requirement that distinguishes schizoaffective disorder from a mood disorder with psychotic features?",
+    "back": "Delusions or hallucinations must be present for at least two weeks in the absence of a major mood episode at some point during the illness.",
+    "id": 179
+  },
+  {
+    "chapter": 12,
+    "front": "What defines brief psychotic disorder, including its duration and outcome?",
+    "back": "Sudden onset of at least one positive symptom lasting more than one day but resolving within one month, with a full return to premorbid functioning.",
+    "id": 180
+  },
+  {
+    "chapter": 12,
+    "front": "What distinguishes delusional disorder from schizophrenia?",
+    "back": "One or more delusions lasting a month or longer, without prominent hallucinations, disorganized speech, disorganized behaviour, or negative symptoms, with functioning outside the delusion's impact remaining largely intact.",
+    "id": 181
+  },
+  {
+    "chapter": 12,
+    "front": "What is the foundational communication principle for responding to a client's delusion?",
+    "back": "Never argue about the content of the delusion; instead validate the underlying feeling, such as fear or distress, without validating the false belief itself.",
+    "id": 182
+  },
+  {
+    "chapter": 12,
+    "front": "What must be assessed immediately when a client reports command hallucinations?",
+    "back": "Whether the client intends to comply with the voices' instructions, since an expressed intent to comply is an acute safety emergency requiring immediate risk assessment.",
+    "id": 183
+  },
+  {
+    "chapter": 12,
+    "front": "What phases characterize the typical course of schizophrenia?",
+    "back": "A prodromal phase of subtle decline, an acute phase with prominent positive symptoms, and a residual phase in which positive symptoms often improve while negative and cognitive symptoms persist.",
+    "id": 184
+  },
+  {
+    "chapter": 12,
+    "front": "How is delirium distinguished from a primary psychotic disorder?",
+    "back": "Delirium has an acute onset, a fluctuating course over hours, and a prominent disturbance of attention and consciousness, features not typical of a primary psychotic disorder.",
+    "id": 185
+  },
+  {
+    "chapter": 12,
+    "front": "What communication adaptation helps a client with disorganized, tangential speech?",
+    "back": "Gentle, calm redirection back to the topic using simple, focused follow-up questions.",
+    "id": 186
+  },
+  {
+    "chapter": 12,
+    "front": "What is expressed emotion, and why does it matter in schizophrenia care?",
+    "back": "A family communication pattern of high criticism, hostility, or emotional over-involvement associated with higher relapse rates; family psychoeducation aims to reduce it.",
+    "id": 187
+  },
+  {
+    "chapter": 12,
+    "front": "What is the goal of psychosocial rehabilitation, as distinct from symptom suppression?",
+    "back": "Helping a client build a meaningful, functional life, including work, relationships, and independent living, alongside the illness, regardless of whether every symptom is eliminated.",
+    "id": 188
+  },
+  {
+    "chapter": 13,
+    "front": "What is the diagnostic time window for acute stress disorder?",
+    "back": "Symptoms begin and the diagnosis applies between three days and one month after a qualifying traumatic exposure. Beyond one month, the presentation is reclassified.",
+    "id": 189
+  },
+  {
+    "chapter": 13,
+    "front": "What qualifying stressor is required for both acute stress disorder and post-traumatic stress disorder?",
+    "back": "Exposure to actual or threatened death, serious injury, or sexual violence, experienced directly, witnessed, learned about happening to a close other, or encountered through repeated exposure to aversive details in professional duties.",
+    "id": 190
+  },
+  {
+    "chapter": 13,
+    "front": "Name the four DSM-5-TR symptom clusters of post-traumatic stress disorder.",
+    "back": "Intrusion, avoidance, negative alterations in cognition and mood, and alterations in arousal and reactivity.",
+    "id": 191
+  },
+  {
+    "chapter": 13,
+    "front": "Give an example of an intrusion symptom in post-traumatic stress disorder.",
+    "back": "Recurrent, involuntary distressing memories or dreams of the event, or a dissociative flashback in which the client feels or acts as though the event is recurring.",
+    "id": 192
+  },
+  {
+    "chapter": 13,
+    "front": "What distinguishes adjustment disorder's qualifying stressor from that of PTSD and acute stress disorder?",
+    "back": "Adjustment disorder can follow any identifiable psychosocial stressor, not only one involving death, serious injury, or sexual violence.",
+    "id": 193
+  },
+  {
+    "chapter": 13,
+    "front": "What are the onset and resolution timeframes for adjustment disorder?",
+    "back": "Symptoms begin within three months of the stressor's onset and are not expected to persist beyond six months once the stressor or its consequences have ended.",
+    "id": 194
+  },
+  {
+    "chapter": 13,
+    "front": "What defines complex trauma?",
+    "back": "Psychological sequelae from prolonged, repeated exposure to traumatic circumstances from which escape is difficult or impossible, such as years of childhood abuse or prolonged domestic violence.",
+    "id": 195
+  },
+  {
+    "chapter": 13,
+    "front": "What additional features often layer onto the standard trauma clusters in complex trauma?",
+    "back": "Pervasive difficulty with emotional regulation, a persistently negative self-concept, and significant, lasting difficulty forming and sustaining relationships.",
+    "id": 196
+  },
+  {
+    "chapter": 13,
+    "front": "Does the DSM-5-TR contain a stand-alone diagnosis called complex PTSD?",
+    "back": "No. The concept is well established clinically and appears as a distinct diagnosis in the ICD-11, but the DSM-5-TR does not have a separate complex PTSD category.",
+    "id": 197
+  },
+  {
+    "chapter": 13,
+    "front": "Name three practices that make a trauma history interview feel safer for the client.",
+    "back": "Asking permission before a sensitive topic, explaining why a question is being asked before asking it, and allowing the client to decline any question without consequence to their care.",
+    "id": 198
+  },
+  {
+    "chapter": 13,
+    "front": "What is dissociation, on a clinical spectrum?",
+    "back": "A spectrum ranging from mild detachment or distraction to severe disorientation, unresponsiveness, or a sense of watching oneself from outside the body.",
+    "id": 199
+  },
+  {
+    "chapter": 13,
+    "front": "Describe the classic five-senses grounding technique.",
+    "back": "Having the client identify five things they can see, four they can touch, three they can hear, two they can smell, and one they can taste, redirecting attention to present sensory information.",
+    "id": 200
+  },
+  {
+    "chapter": 13,
+    "front": "What tone and pacing should a nurse use while grounding a client during a flashback?",
+    "back": "A calm, steady, unhurried voice, short simple sentences, and a physical stance that is present but not looming.",
+    "id": 201
+  },
+  {
+    "chapter": 13,
+    "front": "Why might irritability and recklessness in a trauma client be misread by staff?",
+    "back": "These arousal-cluster symptoms can be mistaken for a behavioural or attitude problem rather than recognized as trauma symptoms, which changes how staff should respond to them.",
+    "id": 202
+  },
+  {
+    "chapter": 13,
+    "front": "What historical event and DSM edition first formally recognized post-traumatic stress disorder?",
+    "back": "PTSD entered the DSM-III in 1980, driven substantially by clinicians working with returning Vietnam War veterans.",
+    "id": 203
+  },
+  {
+    "chapter": 13,
+    "front": "Where did PTSD move to structurally in the DSM-5, published in 2013?",
+    "back": "It moved out of the anxiety disorders chapter into a newly created trauma and stressor-related disorders chapter, reflecting the primacy of an external stressor over anxiety as the core mechanism.",
+    "id": 204
+  },
+  {
+    "chapter": 14,
+    "front": "What defines a personality disorder according to the DSM-5-TR?",
+    "back": "A pervasive, inflexible pattern of inner experience and behaviour that deviates from cultural expectations, is stable since adolescence or early adulthood, and appears across a broad range of situations.",
+    "id": 205
+  },
+  {
+    "chapter": 14,
+    "front": "Name the three DSM-5-TR personality disorder clusters.",
+    "back": "Cluster A, odd or eccentric; Cluster B, dramatic, emotional, or erratic; and Cluster C, anxious or fearful.",
+    "id": 206
+  },
+  {
+    "chapter": 14,
+    "front": "Which personality disorders belong to Cluster A?",
+    "back": "Paranoid, schizoid, and schizotypal personality disorder.",
+    "id": 207
+  },
+  {
+    "chapter": 14,
+    "front": "Which personality disorders belong to Cluster B?",
+    "back": "Borderline, antisocial, histrionic, and narcissistic personality disorder.",
+    "id": 208
+  },
+  {
+    "chapter": 14,
+    "front": "Which personality disorders belong to Cluster C?",
+    "back": "Avoidant, dependent, and obsessive-compulsive personality disorder.",
+    "id": 209
+  },
+  {
+    "chapter": 14,
+    "front": "What is splitting in borderline personality disorder?",
+    "back": "A pattern of viewing people, including oneself, in extreme all-good or all-bad terms, with little capacity to hold both positive and negative qualities of a person at once.",
+    "id": 210
+  },
+  {
+    "chapter": 14,
+    "front": "How is self-harm in borderline personality disorder often best understood?",
+    "back": "As a maladaptive affect-regulation strategy used to reduce an overwhelming emotional state, though every episode still requires a full suicide risk assessment.",
+    "id": 211
+  },
+  {
+    "chapter": 14,
+    "front": "List the four dialectical behaviour therapy skill modules.",
+    "back": "Distress tolerance, emotion regulation, interpersonal effectiveness, and mindfulness.",
+    "id": 212
+  },
+  {
+    "chapter": 14,
+    "front": "What does distress tolerance teach a client to do?",
+    "back": "Survive an intense emotional crisis without making it worse through impulsive or self-destructive behaviour, using techniques such as intense sensory input or brief distraction.",
+    "id": 213
+  },
+  {
+    "chapter": 14,
+    "front": "What does interpersonal effectiveness address in dialectical behaviour therapy?",
+    "back": "It teaches the client to ask for what they need, say no to unwanted requests, and maintain self-respect within a relationship while balancing these against preserving the relationship.",
+    "id": 214
+  },
+  {
+    "chapter": 14,
+    "front": "What is required for a diagnosis of antisocial personality disorder?",
+    "back": "A pattern of disregard for others' rights since age fifteen, a prior conduct disorder diagnosis, and an age of at least eighteen at the time of diagnosis.",
+    "id": 215
+  },
+  {
+    "chapter": 14,
+    "front": "How does manipulation in antisocial personality disorder typically differ from that in borderline personality disorder?",
+    "back": "It tends to be purposeful and goal-directed toward a concrete gain, rather than driven primarily by fear of abandonment.",
+    "id": 216
+  },
+  {
+    "chapter": 14,
+    "front": "What is the single most important factor in making a limit hold with a boundary-testing client?",
+    "back": "Consistency across the entire care team, achieved through active communication such as care conferences, handover, and a clearly written care plan.",
+    "id": 217
+  },
+  {
+    "chapter": 14,
+    "front": "What is countertransference?",
+    "back": "The nurse's own emotional reactions to a client, arising from the nurse's personal history, values, or current stressors as much as from the client's behaviour.",
+    "id": 218
+  },
+  {
+    "chapter": 14,
+    "front": "What is the standard tool for managing countertransference reactions?",
+    "back": "Clinical supervision, peer consultation, and reflective case discussion, which let a nurse name a strong reaction and decide deliberately how to respond rather than reacting automatically.",
+    "id": 219
+  },
+  {
+    "chapter": 14,
+    "front": "Who developed dialectical behaviour therapy and for what original population?",
+    "back": "Psychologist Marsha Linehan, developed originally for chronically suicidal clients, many of whom would today meet criteria for borderline personality disorder.",
+    "id": 220
+  },
+  {
+    "chapter": 15,
+    "front": "Define an obsession as used in obsessive-compulsive disorder.",
+    "back": "A recurrent, persistent thought, urge, or image experienced as intrusive and unwanted, causing marked anxiety or distress in most individuals.",
+    "id": 221
+  },
+  {
+    "chapter": 15,
+    "front": "Define a compulsion as used in obsessive-compulsive disorder.",
+    "back": "A repetitive behaviour or mental act an individual feels driven to perform in response to an obsession or according to rigidly applied rules.",
+    "id": 222
+  },
+  {
+    "chapter": 15,
+    "front": "Give an example of a mental compulsion.",
+    "back": "Silent counting, repeating a specific phrase internally, or mentally reviewing a sequence of events to be certain nothing was done wrong.",
+    "id": 223
+  },
+  {
+    "chapter": 15,
+    "front": "List the three insight specifier levels used for obsessive-compulsive disorder and body dysmorphic disorder.",
+    "back": "Good or fair insight, poor insight, and absent insight or delusional beliefs.",
+    "id": 224
+  },
+  {
+    "chapter": 15,
+    "front": "What defines body dysmorphic disorder?",
+    "back": "Preoccupation with a perceived appearance flaw that is not observable or only slight to others, paired with repetitive behaviours such as mirror checking, camouflaging, or reassurance-seeking.",
+    "id": 225
+  },
+  {
+    "chapter": 15,
+    "front": "What real-world risk is specifically associated with body dysmorphic disorder beyond psychological distress?",
+    "back": "Individuals frequently seek cosmetic or dermatological procedures that typically fail to resolve the preoccupation and can worsen it or shift it to a different body area.",
+    "id": 226
+  },
+  {
+    "chapter": 15,
+    "front": "What defines hoarding disorder?",
+    "back": "Persistent difficulty discarding possessions regardless of actual value, driven by a perceived need to save them and distress associated with discarding them, congesting living areas.",
+    "id": 227
+  },
+  {
+    "chapter": 15,
+    "front": "When and how was hoarding disorder distinguished from obsessive-compulsive disorder?",
+    "back": "In the DSM-5, published in 2013, based on research showing it is a distinct clinical entity with its own course, associated features, and treatment response.",
+    "id": 228
+  },
+  {
+    "chapter": 15,
+    "front": "Describe the anxiety-compulsion cycle.",
+    "back": "An obsessional thought or urge produces anxiety, a compulsion is performed and produces immediate relief, and that relief reinforces the compulsion, making it more entrenched over time.",
+    "id": 229
+  },
+  {
+    "chapter": 15,
+    "front": "What is family accommodation?",
+    "back": "Well-intentioned reassurance-giving or ritual participation by family members that mechanically reinforces the same anxiety-compulsion cycle sustaining the client's own compulsions.",
+    "id": 230
+  },
+  {
+    "chapter": 15,
+    "front": "What is the core nursing tension in managing rituals?",
+    "back": "Avoiding reinforcement of the client's rituals while also avoiding abrupt confrontation or refusal that escalates distress unnecessarily or damages the therapeutic relationship.",
+    "id": 231
+  },
+  {
+    "chapter": 15,
+    "front": "What is exposure and response prevention?",
+    "back": "A treatment in which a client deliberately confronts a feared stimulus while refraining from the compulsive response, learning that anxiety declines on its own and the feared outcome does not occur.",
+    "id": 232
+  },
+  {
+    "chapter": 15,
+    "front": "What is the psychiatric nurse's role during exposure and response prevention treatment?",
+    "back": "Supporting the client's engagement between formal sessions, reinforcing assigned practice, and maintaining consistency with the client's current exposure hierarchy rather than delivering the therapy independently.",
+    "id": 233
+  },
+  {
+    "chapter": 15,
+    "front": "Why must a nurse know a client's current position on an exposure hierarchy?",
+    "back": "To avoid pushing the client toward an exposure they are not ready for, and to avoid accommodating an avoidance the treatment plan is currently working to reduce.",
+    "id": 234
+  },
+  {
+    "chapter": 15,
+    "front": "Who is credited with the early development of exposure and response prevention?",
+    "back": "British psychologist Victor Meyer in the late 1960s, with the approach extended through controlled studies by Stanley Rachman and colleagues in the 1970s.",
+    "id": 235
+  },
+  {
+    "chapter": 15,
+    "front": "Why can obsessive-compulsive disorder with absent insight be difficult to distinguish from a primary psychotic disorder?",
+    "back": "The client's fixed conviction remains organized around recognizable obsessive-compulsive content, such as contamination or symmetry, and compulsive behaviours are still present alongside the fixed belief.",
+    "id": 236
+  },
+  {
+    "chapter": 16,
+    "front": "What are the two DSM-5-TR subtypes of anorexia nervosa?",
+    "back": "The restricting subtype, with weight loss through dieting, fasting, or excessive exercise without binge eating or purging, and the binge-purge subtype, with recurrent binge eating or purging present.",
+    "id": 237
+  },
+  {
+    "chapter": 16,
+    "front": "What key feature distinguishes bulimia nervosa from the binge-purge subtype of anorexia nervosa?",
+    "back": "Body weight: bulimia nervosa requires a body weight that is not significantly low, while the binge-purge subtype of anorexia nervosa requires significantly low body weight.",
+    "id": 238
+  },
+  {
+    "chapter": 16,
+    "front": "What defines binge-eating disorder?",
+    "back": "Recurrent binge eating episodes with a sense of lack of control, occurring at least weekly for three months, without the regular compensatory behaviour that defines bulimia nervosa.",
+    "id": 239
+  },
+  {
+    "chapter": 16,
+    "front": "What metabolic shift occurs during prolonged starvation that sets up refeeding syndrome risk?",
+    "back": "The body shifts to fat and protein as fuel, insulin secretion drops, and total body phosphate, potassium, and magnesium become depleted even while serum levels can remain near normal.",
+    "id": 240
+  },
+  {
+    "chapter": 16,
+    "front": "What triggers the dangerous electrolyte shift in refeeding syndrome?",
+    "back": "Reintroducing carbohydrate causes a sharp insulin surge that drives glucose, phosphate, potassium, and magnesium out of the blood and into cells all at once.",
+    "id": 241
+  },
+  {
+    "chapter": 16,
+    "front": "Why is phosphate depletion especially dangerous in refeeding syndrome?",
+    "back": "Phosphate is essential for adenosine triphosphate production and for red blood cell oxygen release, and severe depletion can impair cardiac muscle contractility directly.",
+    "id": 242
+  },
+  {
+    "chapter": 16,
+    "front": "When is cardiac risk from refeeding syndrome highest?",
+    "back": "In the early days of nutritional rehabilitation itself, not during the preceding period of starvation, which is why gradual, monitored refeeding protocols are standard practice.",
+    "id": 243
+  },
+  {
+    "chapter": 16,
+    "front": "What electrolyte and acid-base disturbance does self-induced vomiting typically cause?",
+    "back": "A hypochloremic, hypokalemic metabolic alkalosis, from loss of hydrochloric acid and potassium along with the kidney's compensatory response.",
+    "id": 244
+  },
+  {
+    "chapter": 16,
+    "front": "What electrolyte and acid-base disturbance does laxative misuse typically cause?",
+    "back": "A metabolic acidosis from loss of bicarbonate-rich fluid through the lower gastrointestinal tract, along with significant potassium and fluid loss.",
+    "id": 245
+  },
+  {
+    "chapter": 16,
+    "front": "What ECG changes are characteristic of significant hypokalemia?",
+    "back": "Flattened T waves, prominent U waves, and ST segment depression, with risk of life-threatening ventricular arrhythmia in severe cases.",
+    "id": 246
+  },
+  {
+    "chapter": 16,
+    "front": "What is Russell's sign?",
+    "back": "Calluses or scarring on the dorsum of the hand from repeated contact with the teeth during self-induced vomiting.",
+    "id": 247
+  },
+  {
+    "chapter": 16,
+    "front": "Why can bradycardia in prolonged anorexia nervosa be misleading?",
+    "back": "It can resemble the resting vital signs of a conditioned athlete while actually reflecting reduced cardiac muscle mass and a starved, structurally compromised heart.",
+    "id": 248
+  },
+  {
+    "chapter": 16,
+    "front": "Why does QT prolongation matter in anorexia nervosa?",
+    "back": "It carries an elevated risk of torsades de pointes, a dangerous ventricular arrhythmia that can degenerate into sudden cardiac arrest, and can be present even with only mildly abnormal vital signs.",
+    "id": 249
+  },
+  {
+    "chapter": 16,
+    "front": "Why is weight typically measured under a strict, consistent protocol in eating disorder care?",
+    "back": "Because inconsistent timing, clothing, or fluid intake can obscure a real weight trend or create a false one, and the number itself may be withheld from the client per the treatment plan.",
+    "id": 250
+  },
+  {
+    "chapter": 16,
+    "front": "What is the purpose of a supervised post-meal observation period?",
+    "back": "To reduce the opportunity for purging behaviour, since purging is most likely to occur shortly after eating.",
+    "id": 251
+  },
+  {
+    "chapter": 16,
+    "front": "What historical event first led to large-scale documentation of refeeding syndrome?",
+    "back": "Observations following the Second World War among prisoners of war and famine and concentration camp survivors, who developed unexpected cardiac failure after rapid nutritional support was given following liberation.",
+    "id": 252
+  },
+  {
+    "chapter": 17,
+    "front": "What are the four criteria clusters in DSM-5-TR substance use disorder?",
+    "back": "Impaired control, social impairment, risky use, and pharmacological criteria (tolerance and withdrawal), across eleven total criteria.",
+    "id": 253
+  },
+  {
+    "chapter": 17,
+    "front": "What severity does meeting six or more DSM-5-TR substance use disorder criteria indicate?",
+    "back": "Severe substance use disorder, the highest of the three severity tiers (mild, moderate, severe).",
+    "id": 254
+  },
+  {
+    "chapter": 17,
+    "front": "Why can tolerance and withdrawal alone not establish a substance use disorder diagnosis?",
+    "back": "Because they can occur in a person taking a medication exactly as prescribed under appropriate medical supervision, such as an opioid for chronic pain.",
+    "id": 255
+  },
+  {
+    "chapter": 17,
+    "front": "What is the typical onset window for alcohol withdrawal seizures?",
+    "back": "Twelve to forty-eight hours after the last drink or a significant reduction in intake.",
+    "id": 256
+  },
+  {
+    "chapter": 17,
+    "front": "How does alcoholic hallucinosis differ from delirium tremens?",
+    "back": "Alcoholic hallucinosis occurs with a clear sensorium and intact orientation, while delirium tremens involves profound confusion and disorientation.",
+    "id": 257
+  },
+  {
+    "chapter": 17,
+    "front": "What ten domains does the CIWA-Ar score?",
+    "back": "Nausea and vomiting, tremor, paroxysmal sweats, anxiety, agitation, tactile disturbances, auditory disturbances, visual disturbances, headache, and orientation.",
+    "id": 258
+  },
+  {
+    "chapter": 17,
+    "front": "Why is thiamine given before glucose in alcohol withdrawal management?",
+    "back": "To prevent precipitating Wernicke encephalopathy in a client with unrecognized thiamine deficiency.",
+    "id": 259
+  },
+  {
+    "chapter": 17,
+    "front": "What eleven items does the COWS score?",
+    "back": "Resting pulse, sweating, restlessness, pupil size, bone or joint aches, runny nose or tearing, gastrointestinal upset, tremor, yawning, anxiety or irritability, and gooseflesh skin.",
+    "id": 260
+  },
+  {
+    "chapter": 17,
+    "front": "Why does opioid withdrawal timing differ between heroin and methadone?",
+    "back": "Heroin, a short-acting opioid, produces withdrawal within six to twelve hours peaking in one to three days, while methadone's longer half-life delays onset to twenty-four to forty-eight hours with a more protracted course.",
+    "id": 261
+  },
+  {
+    "chapter": 17,
+    "front": "What is precipitated withdrawal in the context of buprenorphine induction?",
+    "back": "A sudden, severe withdrawal onset triggered when buprenorphine displaces a full opioid agonist from the receptor while providing only partial activation, requiring the client to already be in withdrawal before induction.",
+    "id": 262
+  },
+  {
+    "chapter": 17,
+    "front": "What is the primary nursing safety concern during the stimulant crash?",
+    "back": "Suicide risk, given the severe depressive phase, requiring structured mood and suicidal ideation monitoring rather than autonomic symptom scoring.",
+    "id": 263
+  },
+  {
+    "chapter": 17,
+    "front": "Why does combined alcohol and benzodiazepine use raise overdose risk?",
+    "back": "Both act on overlapping central nervous system depressant pathways, producing additive or synergistic respiratory depression and sedation beyond either substance alone.",
+    "id": 264
+  },
+  {
+    "chapter": 17,
+    "front": "When did Insite, North America's first supervised consumption site, open in Vancouver?",
+    "back": "2003, in the Downtown Eastside.",
+    "id": 265
+  },
+  {
+    "chapter": 17,
+    "front": "What legal protection does Canada's Good Samaritan Drug Overdose Act provide?",
+    "back": "Protection from simple possession charges for a person who seeks emergency help for themselves or someone else experiencing an overdose.",
+    "id": 266
+  },
+  {
+    "chapter": 17,
+    "front": "What are the four core principles of motivational interviewing?",
+    "back": "Expressing empathy, developing discrepancy, rolling with resistance, and supporting self-efficacy.",
+    "id": 267
+  },
+  {
+    "chapter": 17,
+    "front": "What is a concurrent disorder?",
+    "back": "The presence of both a substance use disorder and another mental illness in the same person, also called a co-occurring or dual diagnosis.",
+    "id": 268
+  },
+  {
+    "chapter": 18,
+    "front": "What are the four core features distinguishing delirium from dementia?",
+    "back": "Onset (acute versus insidious), course (fluctuating versus stable/progressive), attention (impaired early versus often preserved early), and reversibility (typically reversible versus not currently reversible).",
+    "id": 269
+  },
+  {
+    "chapter": 18,
+    "front": "What two required features does the CAM algorithm use, plus how many additional features?",
+    "back": "Acute onset with fluctuating course and inattention are both required, plus at least one of disorganized thinking or altered level of consciousness.",
+    "id": 270
+  },
+  {
+    "chapter": 18,
+    "front": "What is the difference between hyperactive and hypoactive delirium?",
+    "back": "Hyperactive delirium presents with agitation and restlessness and is easily noticed; hypoactive delirium presents with lethargy and quiet withdrawal and is frequently missed.",
+    "id": 271
+  },
+  {
+    "chapter": 18,
+    "front": "What is the CAM-ICU used for?",
+    "back": "An adaptation of the CAM for mechanically ventilated or nonverbal critically ill clients, using nonverbal methods to assess attention and disorganized thinking.",
+    "id": 272
+  },
+  {
+    "chapter": 18,
+    "front": "What replaced the term 'dementia' in DSM-5-TR?",
+    "back": "Major neurocognitive disorder (interferes with independence) and mild neurocognitive disorder (does not yet interfere with independence).",
+    "id": 273
+  },
+  {
+    "chapter": 18,
+    "front": "Name the six cognitive domains assessed in major/mild neurocognitive disorder.",
+    "back": "Complex attention, executive function, learning and memory, language, perceptual-motor function, and social cognition.",
+    "id": 274
+  },
+  {
+    "chapter": 18,
+    "front": "How does Alzheimer's disease typically progress compared with vascular neurocognitive disorder?",
+    "back": "Alzheimer's disease follows a smooth, gradual decline; vascular neurocognitive disorder classically follows a stepwise pattern with sudden drops after vascular events.",
+    "id": 275
+  },
+  {
+    "chapter": 18,
+    "front": "What are the core clinical features of Lewy body disease?",
+    "back": "Fluctuating cognition, recurrent detailed visual hallucinations, spontaneous parkinsonism, and REM sleep behaviour disorder.",
+    "id": 276
+  },
+  {
+    "chapter": 18,
+    "front": "Why is antipsychotic use especially dangerous in Lewy body disease?",
+    "back": "Clients can develop severe, sometimes life-threatening sensitivity reactions, including marked worsening of parkinsonism and a neuroleptic malignant syndrome-like reaction.",
+    "id": 277
+  },
+  {
+    "chapter": 18,
+    "front": "How is Lewy body disease distinguished from Parkinson's disease dementia?",
+    "back": "By the relative timing of onset: Lewy body disease is diagnosed when cognitive decline precedes or emerges alongside parkinsonism, while Parkinson's disease dementia follows a year or more of established motor symptoms.",
+    "id": 278
+  },
+  {
+    "chapter": 18,
+    "front": "What distinguishes the behavioural variant of frontotemporal neurocognitive disorder from Alzheimer's disease?",
+    "back": "It presents first with personality and behavioural change (disinhibition, apathy, loss of empathy) at a younger age, with memory relatively preserved early, unlike Alzheimer's early memory-first presentation.",
+    "id": 279
+  },
+  {
+    "chapter": 18,
+    "front": "What is primary progressive aphasia?",
+    "back": "A variant of frontotemporal neurocognitive disorder presenting primarily with progressive language difficulty rather than behavioural change.",
+    "id": 280
+  },
+  {
+    "chapter": 18,
+    "front": "What does BPSD stand for and what is the first-line management approach?",
+    "back": "Behavioural and psychological symptoms of dementia; non-pharmacologic strategies are first-line, addressing unmet needs and environmental safety before medication.",
+    "id": 281
+  },
+  {
+    "chapter": 18,
+    "front": "What factors contribute to sundowning?",
+    "back": "Circadian rhythm disruption, accumulated daytime fatigue, and reduced late-day light increasing shadows and disorientation.",
+    "id": 282
+  },
+  {
+    "chapter": 18,
+    "front": "Name three modifiable elements of a multicomponent delirium prevention protocol.",
+    "back": "Frequent reorientation, use of the client's own glasses/hearing aids, and promoting normal sleep by minimizing overnight interruptions (also: early mobilization, hydration/nutrition, medication review).",
+    "id": 283
+  },
+  {
+    "chapter": 18,
+    "front": "Who developed the Confusion Assessment Method and when was it first validated?",
+    "back": "Dr. Sharon Inouye and colleagues, published in 1990.",
+    "id": 284
+  },
+  {
+    "chapter": 19,
+    "front": "What does 'neurodevelopmental' mean in the context of ADHD, autism, and Intellectual Disability?",
+    "back": "An origin in atypical brain development occurring during the prenatal and early postnatal period, with onset early in the developmental period, and persistence across the lifespan.",
+    "id": 285
+  },
+  {
+    "chapter": 19,
+    "front": "How does ADHD hyperactivity typically change from childhood to adulthood?",
+    "back": "Overt physical hyperactivity often diminishes and is replaced by an internal, subjective sense of restlessness that is far less visible to observers.",
+    "id": 286
+  },
+  {
+    "chapter": 19,
+    "front": "Why is a retrospective childhood history important when diagnosing adult ADHD?",
+    "back": "DSM-5-TR requires evidence several symptoms were present before age twelve, so old records like report cards and collateral history help establish this in an adult.",
+    "id": 287
+  },
+  {
+    "chapter": 19,
+    "front": "What DSM-5-TR criterion for autism was newly added in DSM-5 and carried into DSM-5-TR?",
+    "back": "Hyper- or hyporeactivity to sensory input, or unusual interest in sensory aspects of the environment, within the restricted/repetitive behaviour domain.",
+    "id": 288
+  },
+  {
+    "chapter": 19,
+    "front": "What did DSM-5 replace with a single Autism Spectrum Disorder diagnosis?",
+    "back": "The earlier separate diagnoses of autistic disorder, Asperger's disorder, and pervasive developmental disorder not otherwise specified.",
+    "id": 289
+  },
+  {
+    "chapter": 19,
+    "front": "What is masking or camouflaging in autism?",
+    "back": "The conscious or unconscious suppression of autistic traits to conform to social expectations, more common among girls and women, often at significant personal cost.",
+    "id": 290
+  },
+  {
+    "chapter": 19,
+    "front": "What three domains determine severity in Intellectual Disability?",
+    "back": "Conceptual, social, and practical adaptive functioning domains, rather than an intelligence quotient score alone.",
+    "id": 291
+  },
+  {
+    "chapter": 19,
+    "front": "What is diagnostic overshadowing?",
+    "back": "Incorrectly attributing a genuine, separate psychiatric symptom or medical problem to a client's Intellectual Disability itself rather than investigating it independently.",
+    "id": 292
+  },
+  {
+    "chapter": 19,
+    "front": "What does the neurodiversity perspective emphasize?",
+    "back": "Reframing autism as a natural variation in human neurology rather than exclusively a deficit, while still supporting individuals who experience genuine impairment.",
+    "id": 293
+  },
+  {
+    "chapter": 19,
+    "front": "Why should a nurse establish an individual baseline before assessing an autistic or ADHD client for a new psychiatric symptom?",
+    "back": "Because deviation from a person's own baseline is more diagnostically meaningful than comparison against general population norms, helping distinguish, for example, a special interest from psychosis.",
+    "id": 294
+  },
+  {
+    "chapter": 19,
+    "front": "What is a sensory diet or sensory profile?",
+    "back": "An individualized understanding of the specific sensory inputs a person finds regulating versus overwhelming, used to proactively support an autistic client.",
+    "id": 295
+  },
+  {
+    "chapter": 19,
+    "front": "What four principles define family-centred care in this context?",
+    "back": "Recognizing family as holding essential knowledge, collaborating as genuine partners, respecting growing adolescent/adult autonomy, and continuing involvement into adulthood where appropriate and consented to.",
+    "id": 296
+  },
+  {
+    "chapter": 19,
+    "front": "What is transition planning and when should it begin?",
+    "back": "The structured process of preparing a young person for the shift from paediatric to adult services; it should begin years, not months, before the actual transfer.",
+    "id": 297
+  },
+  {
+    "chapter": 19,
+    "front": "Why does the transition to adult services carry particular risk?",
+    "back": "Adult services often require far more active self-navigation and application with fewer automatic supports than the coordinated paediatric system.",
+    "id": 298
+  },
+  {
+    "chapter": 19,
+    "front": "Why can co-occurring ADHD and autism now both be diagnosed in the same person?",
+    "back": "DSM-5-TR removed the earlier exclusion that had prevented a dual diagnosis, recognizing the two conditions commonly co-occur.",
+    "id": 299
+  },
+  {
+    "chapter": 19,
+    "front": "Why should a nurse use adapted rather than generic screening tools with a neurodevelopmental client where possible?",
+    "back": "A generic instrument may contain abstract emotional-labelling items that do not map cleanly onto how a neurodivergent client experiences or reports their internal state, risking false negative or false positive conclusions.",
+    "id": 300
+  },
+  {
+    "chapter": 20,
+    "front": "What four dimensions help distinguish normal developmental behaviour from a clinical disorder in youth?",
+    "back": "Frequency and intensity relative to peers, persistence over time, and the degree of functional impairment across settings.",
+    "id": 301
+  },
+  {
+    "chapter": 20,
+    "front": "What are the four DSM-5-TR categories of Conduct Disorder behaviour?",
+    "back": "Aggression to people and animals, destruction of property, deceitfulness or theft, and serious violations of rules.",
+    "id": 302
+  },
+  {
+    "chapter": 20,
+    "front": "What is the prognostic difference between childhood-onset and adolescent-onset Conduct Disorder?",
+    "back": "Childhood-onset (before age ten) is linked to persistent antisocial behaviour into adulthood; adolescent-onset carries a comparatively better long-term prognosis.",
+    "id": 303
+  },
+  {
+    "chapter": 20,
+    "front": "What is the 'limited prosocial emotions' specifier in Conduct Disorder?",
+    "back": "A pattern of reduced empathy, shallow emotional expression, lack of remorse, and lack of concern about performance, also called callous-unemotional traits, associated with more severe, persistent antisocial behaviour.",
+    "id": 304
+  },
+  {
+    "chapter": 20,
+    "front": "How does DSM-5-TR allow depression to present differently in youth than in adults?",
+    "back": "It permits irritable mood, rather than sad mood, to satisfy the core mood criterion for a depressive episode in children and adolescents.",
+    "id": 305
+  },
+  {
+    "chapter": 20,
+    "front": "How does generalized anxiety often present in a school-age child?",
+    "back": "Through somatic complaints such as headache or stomach ache prompting repeated medical visits, plus excessive reassurance-seeking and perfectionism.",
+    "id": 306
+  },
+  {
+    "chapter": 20,
+    "front": "What is non-suicidal self-injury and what is its typical function?",
+    "back": "Deliberate destruction of one's own body tissue without suicidal intent, most often cutting, functioning as a way to regulate intense emotional distress or numbness.",
+    "id": 307
+  },
+  {
+    "chapter": 20,
+    "front": "Why must non-suicidal self-injury never be assumed to rule out suicide risk?",
+    "back": "A history of non-suicidal self-injury is itself associated with elevated future suicide attempt risk even when individual instances lacked lethal intent.",
+    "id": 308
+  },
+  {
+    "chapter": 20,
+    "front": "Why are adolescents at elevated suicide risk from impulsivity specifically?",
+    "back": "The interval between a suicidal thought and potential action can be shorter than in adults, making means restriction, such as securing firearms and medications, a critical safety step.",
+    "id": 309
+  },
+  {
+    "chapter": 20,
+    "front": "What distinguishes avoidant/restrictive food intake disorder from anorexia nervosa?",
+    "back": "It is not driven by body image concerns or fear of weight gain, but by low interest in eating, sensory sensitivity, or fear of an aversive consequence like choking.",
+    "id": 310
+  },
+  {
+    "chapter": 20,
+    "front": "What is family-based treatment for adolescent eating disorders?",
+    "back": "An approach where parents take an active, structured role in restoring their child's nutrition and eating pattern during the early treatment phase.",
+    "id": 311
+  },
+  {
+    "chapter": 20,
+    "front": "Why is school liaison a central task in paediatric psychiatric nursing?",
+    "back": "School is where a child spends much of their waking hours and where symptoms often first become apparent, so coordination with appropriate consent gathers collateral information and communicates accommodations.",
+    "id": 312
+  },
+  {
+    "chapter": 20,
+    "front": "What does the mature minor doctrine assess?",
+    "back": "A minor's individualized capacity to understand the nature, risks, benefits, and consequences of a specific treatment decision, rather than applying a fixed chronological age.",
+    "id": 313
+  },
+  {
+    "chapter": 20,
+    "front": "What confidentiality right does a capable minor generally hold under the mature minor doctrine?",
+    "back": "A right to confidentiality regarding that specific treatment decision similar to what an adult would hold, so information cannot automatically be shared with a parent over the minor's objection.",
+    "id": 314
+  },
+  {
+    "chapter": 20,
+    "front": "What 2009 Supreme Court of Canada case shaped the mature minor doctrine?",
+    "back": "A.C. v. Manitoba, involving a 14-year-old who refused a blood transfusion, which held that capacity should be assessed on demonstrated maturity rather than a rigid age cutoff.",
+    "id": 315
+  },
+  {
+    "chapter": 20,
+    "front": "What is school refusal and what does it often reflect?",
+    "back": "Persistent difficulty attending school associated with significant emotional distress, often reflecting an underlying anxiety disorder, though also possibly depression, a learning difficulty, or bullying.",
+    "id": 316
+  },
+  {
+    "chapter": 21,
+    "front": "Why is late-life depression often missed in older adults?",
+    "back": "It frequently presents through somatic complaints such as fatigue, pain, and gastrointestinal symptoms rather than a stated low mood, so screening tools must ask directly about mood, interest, and thoughts of death.",
+    "id": 317
+  },
+  {
+    "chapter": 21,
+    "front": "What is pseudodementia?",
+    "back": "Depression-related cognitive impairment that mimics true neurocognitive disorder, typically with more rapid onset and marked patient distress about the perceived memory loss.",
+    "id": 318
+  },
+  {
+    "chapter": 21,
+    "front": "How does a depressed patient typically respond to cognitive testing compared to a patient with true dementia?",
+    "back": "A depressed patient often answers 'I don't know' and gives up on effortful tasks, while a patient with true dementia more often minimizes deficits or confabulates rather than declining to try.",
+    "id": 319
+  },
+  {
+    "chapter": 21,
+    "front": "Why was the Geriatric Depression Scale designed to minimize somatic items?",
+    "back": "Because somatic symptoms like sleep and appetite change are common in older adults for purely physical reasons and would otherwise inflate the score of a physically ill but not depressed person.",
+    "id": 320
+  },
+  {
+    "chapter": 21,
+    "front": "Name the prescribing principle used for psychotropic medications in older adults.",
+    "back": "Start low, go slow: begin at a fraction of the standard adult dose with slower upward titration and closer monitoring.",
+    "id": 321
+  },
+  {
+    "chapter": 21,
+    "front": "Why does hepatic metabolism slowing with age affect psychotropic dosing?",
+    "back": "Reduced hepatic clearance means a standard adult dose can produce a higher and more prolonged blood level in an older adult than in a younger one.",
+    "id": 322
+  },
+  {
+    "chapter": 21,
+    "front": "What is anticholinergic burden and why does it matter in geriatric psychiatric nursing?",
+    "back": "It is the cumulative anticholinergic load across a patient's entire medication list; high burden is linked to confusion, constipation, urinary retention, and elevated delirium and cognitive decline risk.",
+    "id": 323
+  },
+  {
+    "chapter": 21,
+    "front": "List the four recognized forms of elder abuse.",
+    "back": "Physical abuse, emotional or psychological abuse, financial abuse, and neglect (including self-neglect).",
+    "id": 324
+  },
+  {
+    "chapter": 21,
+    "front": "What behavioural sign can suggest emotional abuse by a specific caregiver?",
+    "back": "An older adult who appears fearful or deferential in that caregiver's presence but visibly relaxes once the caregiver leaves the room.",
+    "id": 325
+  },
+  {
+    "chapter": 21,
+    "front": "What triggers the duty to report suspected elder abuse under provincial adult protection legislation?",
+    "back": "Reasonable suspicion, not proof; the nurse reports through the organization's protocol and the relevant provincial authority rather than investigating independently.",
+    "id": 326
+  },
+  {
+    "chapter": 21,
+    "front": "Is decision-making capacity a global or decision-specific concept?",
+    "back": "Decision-specific and time-specific; a person can lack capacity for one decision, such as managing finances, while retaining capacity for another, such as consenting to treatment.",
+    "id": 327
+  },
+  {
+    "chapter": 21,
+    "front": "Does a dementia diagnosis automatically mean a patient lacks capacity?",
+    "back": "No. Capacity is assessed against the specific decision at hand, not inferred from a diagnostic label.",
+    "id": 328
+  },
+  {
+    "chapter": 21,
+    "front": "What four elements does a basic treatment-decision capacity assessment examine?",
+    "back": "Whether the patient can express a clear choice, understand relevant information, appreciate how it applies to their situation, and reason through it to a decision consistent with their own values.",
+    "id": 329
+  },
+  {
+    "chapter": 21,
+    "front": "Why is the standard depression symptom checklist less reliable at the end of life?",
+    "back": "Because weight loss, fatigue, sleep disturbance, and reduced appetite overlap heavily with the expected physical trajectory of terminal illness itself.",
+    "id": 330
+  },
+  {
+    "chapter": 21,
+    "front": "How is adaptive grief distinguished from a major depressive episode at the end of life?",
+    "back": "Adaptive grief coexists with preserved capacity for connection, humour, and engagement; a depressive episode shows pervasive, unremitting low mood and loss of any positive engagement even on good days.",
+    "id": 331
+  },
+  {
+    "chapter": 21,
+    "front": "What end-of-life anxiety intervention should be tried before defaulting to medication?",
+    "back": "Addressing the specific identifiable fear directly, such as fear of uncontrolled pain or being a burden, through information, symptom control, and facilitated family conversations.",
+    "id": 332
+  },
+  {
+    "chapter": 22,
+    "front": "What is the typical timeline mismatch a patient should be taught about when starting an SSRI?",
+    "back": "Side effects often appear within days, while the therapeutic antidepressant effect typically takes two to four weeks or longer to appear.",
+    "id": 333
+  },
+  {
+    "chapter": 22,
+    "front": "Which SSRI/SNRI side effect most often persists rather than resolving over the first two weeks?",
+    "back": "Sexual dysfunction, most often decreased libido or delayed orgasm, which is a common reason patients discontinue an otherwise effective antidepressant.",
+    "id": 334
+  },
+  {
+    "chapter": 22,
+    "front": "What age group does the SSRI/SNRI boxed warning for suicidality apply to?",
+    "back": "Children, adolescents, and young adults up to about age twenty-four, specifically during early treatment or after a dose change.",
+    "id": 335
+  },
+  {
+    "chapter": 22,
+    "front": "What is the proposed mechanism behind early-treatment activation risk with antidepressants in young patients?",
+    "back": "An early increase in energy and activation can occur before mood genuinely lifts, giving a previously immobilized depressed patient the physical drive to act on pre-existing suicidal thoughts.",
+    "id": 336
+  },
+  {
+    "chapter": 22,
+    "front": "Name the classic triad of serotonin syndrome.",
+    "back": "Mental status changes, autonomic instability, and neuromuscular abnormalities such as tremor, myoclonus, hyperreflexia, and lower-extremity clonus.",
+    "id": 337
+  },
+  {
+    "chapter": 22,
+    "front": "What combination carries the highest risk of serotonin syndrome?",
+    "back": "An SSRI or SNRI combined with a monoamine oxidase inhibitor.",
+    "id": 338
+  },
+  {
+    "chapter": 22,
+    "front": "What is the first nursing action when serotonin syndrome is suspected?",
+    "back": "Stop the serotonergic agent believed responsible, notify the prescriber or activate emergency response if severe, and begin supportive care including cooling and IV fluids.",
+    "id": 339
+  },
+  {
+    "chapter": 22,
+    "front": "Why are benzodiazepines recommended only for short-term use?",
+    "back": "Tolerance and physical dependence can develop within weeks, and abrupt discontinuation after regular use risks a withdrawal syndrome that can include seizures.",
+    "id": 340
+  },
+  {
+    "chapter": 22,
+    "front": "How should a benzodiazepine be discontinued after regular use?",
+    "back": "Through a gradual, supervised taper individualized to dose, duration, and specific agent, never abruptly.",
+    "id": 341
+  },
+  {
+    "chapter": 22,
+    "front": "What is the general therapeutic serum lithium range for maintenance treatment?",
+    "back": "Approximately 0.6 to 1.0 mmol/L, with levels above roughly 1.5 mmol/L generally carrying a meaningfully elevated toxicity risk.",
+    "id": 342
+  },
+  {
+    "chapter": 22,
+    "front": "List early signs of lithium toxicity.",
+    "back": "Fine hand tremor, nausea, diarrhea, mild lethargy, and mild ataxia.",
+    "id": 343
+  },
+  {
+    "chapter": 22,
+    "front": "List late, severe signs of lithium toxicity.",
+    "back": "Coarse tremor, marked confusion, severe ataxia, slurred speech, muscle fasciculations, and in the most severe cases seizures, arrhythmia, and coma.",
+    "id": 344
+  },
+  {
+    "chapter": 22,
+    "front": "What three areas require ongoing monitoring in a patient on lithium?",
+    "back": "Serum lithium levels (drawn as a trough about twelve hours post-dose), renal function, and thyroid function.",
+    "id": 345
+  },
+  {
+    "chapter": 22,
+    "front": "Why does dehydration or low sodium raise serum lithium levels?",
+    "back": "The kidney handles sodium and lithium through overlapping reabsorption pathways, so conserving sodium during dehydration causes more lithium to be reabsorbed as well.",
+    "id": 346
+  },
+  {
+    "chapter": 22,
+    "front": "What monitoring does valproate require and what is its major reproductive concern?",
+    "back": "Serum valproate level, liver function, and complete blood count; it carries significant teratogenic risk including neural tube defects and cognitive impairment in exposed children.",
+    "id": 347
+  },
+  {
+    "chapter": 22,
+    "front": "Why must lamotrigine be titrated slowly, and what should a patient never do after missing several days of doses?",
+    "back": "Slow titration minimizes the dose-dependent risk of a serious rash, including Stevens-Johnson syndrome; a patient must never resume at the pre-interruption dose after a multi-day gap without checking with the prescriber.",
+    "id": 348
+  },
+  {
+    "chapter": 23,
+    "front": "What receptor mechanism distinguishes first-generation from second-generation antipsychotics?",
+    "back": "First-generation agents act mainly through strong dopamine D2 blockade; second-generation agents act on both dopamine and serotonin receptors.",
+    "id": 349
+  },
+  {
+    "chapter": 23,
+    "front": "What is the core clinical trade-off between typical and atypical antipsychotics?",
+    "back": "Typical agents carry a higher extrapyramidal symptom risk; atypical agents carry a lower movement-disorder risk but a higher metabolic risk.",
+    "id": 350
+  },
+  {
+    "chapter": 23,
+    "front": "Describe akathisia and why it is often misidentified.",
+    "back": "Severe subjective and observed motor restlessness appearing within days to weeks of starting or increasing an antipsychotic; it is frequently mistaken for worsening anxiety or agitation.",
+    "id": 351
+  },
+  {
+    "chapter": 23,
+    "front": "Describe acute dystonia and its standard treatment.",
+    "back": "Sudden, sustained, often painful muscle contraction (e.g., torticollis, oculogyric crisis) within hours to days of a new or increased dose, treated promptly with an anticholinergic or antihistaminic medication with rapid relief.",
+    "id": 352
+  },
+  {
+    "chapter": 23,
+    "front": "How does drug-induced parkinsonism present?",
+    "back": "Bradykinesia, shuffling gait, cogwheel rigidity, and resting tremor developing over days to weeks, mimicking idiopathic Parkinson disease.",
+    "id": 353
+  },
+  {
+    "chapter": 23,
+    "front": "Why is tardive dyskinesia clinically distinct from the other extrapyramidal syndromes?",
+    "back": "It emerges only after months to years of cumulative exposure and can become persistent or irreversible even after the antipsychotic is stopped, requiring routine standardized screening.",
+    "id": 354
+  },
+  {
+    "chapter": 23,
+    "front": "List the four clinical domains of neuroleptic malignant syndrome.",
+    "back": "Fever, severe muscle rigidity, autonomic instability, and altered mental status, often with markedly elevated creatine kinase.",
+    "id": 355
+  },
+  {
+    "chapter": 23,
+    "front": "What is the required nursing response when neuroleptic malignant syndrome is suspected?",
+    "back": "Immediately stop the antipsychotic, notify the physician or activate emergency response, and begin close monitoring and supportive care given significant mortality risk.",
+    "id": 356
+  },
+  {
+    "chapter": 23,
+    "front": "For which condition does clozapine have uniquely demonstrated superior efficacy?",
+    "back": "Treatment-resistant schizophrenia, defined as failure to respond adequately to at least two other antipsychotic trials at adequate dose and duration; it also reduces suicide risk in schizophrenia.",
+    "id": 357
+  },
+  {
+    "chapter": 23,
+    "front": "What mandatory monitoring governs clozapine use, and why?",
+    "back": "Regular absolute neutrophil count testing throughout treatment, because clozapine carries a risk of agranulocytosis, a severe drop in neutrophils impairing infection defence.",
+    "id": 358
+  },
+  {
+    "chapter": 23,
+    "front": "What four components make up metabolic monitoring for second-generation antipsychotics?",
+    "back": "Weight and BMI, waist circumference, fasting lipid panel, and fasting glucose (or equivalent glycemic measure), plus blood pressure.",
+    "id": 359
+  },
+  {
+    "chapter": 23,
+    "front": "What are the primary indications for electroconvulsive therapy?",
+    "back": "Severe treatment-resistant major depression, depression with psychotic features, severe suicidality requiring rapid response, catatonia, and certain treatment-resistant mania presentations.",
+    "id": 360
+  },
+  {
+    "chapter": 23,
+    "front": "What is the most common post-ECT effect a nurse should prepare a patient for?",
+    "back": "Transient confusion or disorientation on emergence from anesthesia, and variable memory difficulty, most pronounced around the time of the treatment course.",
+    "id": 361
+  },
+  {
+    "chapter": 23,
+    "front": "How does transcranial magnetic stimulation differ from electroconvulsive therapy in terms of procedure?",
+    "back": "TMS does not require general anesthesia or induce a seizure, is given on an outpatient basis over daily sessions, and does not carry ECT's memory effects, though it is less rapidly effective for the most severe presentations.",
+    "id": 362
+  },
+  {
+    "chapter": 23,
+    "front": "Is the psychiatric nurse responsible for ordering ECT or TMS?",
+    "back": "No. Both are physician-ordered and physician-administered somatic treatments; the nurse's role is essential pre- and post-procedure care, education, and monitoring rather than prescribing or performing the treatment.",
+    "id": 363
+  },
+  {
+    "chapter": 23,
+    "front": "What is the most common side effect a nurse should monitor for with transcranial magnetic stimulation?",
+    "back": "Scalp discomfort or headache at the stimulation site, which is generally mild compared to the risks associated with electroconvulsive therapy.",
+    "id": 364
+  },
+  {
+    "chapter": 24,
+    "front": "What defines a psychological crisis according to crisis theory?",
+    "back": "A stressor overwhelms a person's usual coping mechanisms, producing disequilibrium that moves through stages of rising tension, escalation, and a full crisis state.",
+    "id": 365
+  },
+  {
+    "chapter": 24,
+    "front": "Why is a crisis considered time-limited?",
+    "back": "A person cannot sustain the extreme physiological and psychological arousal of an acute crisis indefinitely; it resolves, for better or worse, typically within days to a few weeks.",
+    "id": 366
+  },
+  {
+    "chapter": 24,
+    "front": "Why does earlier intervention in a crisis timeline matter so much?",
+    "back": "Intervening before disorganization and impaired judgment fully take hold allows a less restrictive intervention to succeed.",
+    "id": 367
+  },
+  {
+    "chapter": 24,
+    "front": "List several early escalation cues a nurse should watch for.",
+    "back": "A change from usual behaviour pattern, increased pacing and restlessness, a raised voice, clenched fists or jaw, invasion of personal space, and sudden refusal to engage.",
+    "id": 368
+  },
+  {
+    "chapter": 24,
+    "front": "Why should a refusal to engage in conversation never be dismissed as simple uncooperativeness?",
+    "back": "It often reflects the person's coping resources becoming overwhelmed and is itself a significant escalation cue.",
+    "id": 369
+  },
+  {
+    "chapter": 24,
+    "front": "What non-threatening body language techniques support verbal de-escalation?",
+    "back": "Standing at an angle rather than squarely facing the person, keeping hands visible, avoiding a defensive posture, and maintaining a relaxed stance.",
+    "id": 370
+  },
+  {
+    "chapter": 24,
+    "front": "Why is offering a limited, clear choice more effective than an open-ended question during de-escalation?",
+    "back": "An open-ended question can overwhelm a person whose cognitive resources are already taxed, while a structured choice restores a sense of agency without ceding overall control.",
+    "id": 371
+  },
+  {
+    "chapter": 24,
+    "front": "List the four levels of the least restrictive intervention hierarchy in order.",
+    "back": "Verbal de-escalation, environmental modification, chemical intervention (PRN medication), and physical intervention (restraint or seclusion) as a last resort.",
+    "id": 372
+  },
+  {
+    "chapter": 24,
+    "front": "What must accompany any escalation to a more restrictive intervention?",
+    "back": "Specific, documented clinical justification describing what less restrictive measures were attempted or considered and why they were assessed as insufficient.",
+    "id": 373
+  },
+  {
+    "chapter": 24,
+    "front": "What environmental modifications reduce escalation risk?",
+    "back": "Reducing noise and light, moving the person to a quieter space, removing other people contributing to tension, and ensuring clear egress routes.",
+    "id": 374
+  },
+  {
+    "chapter": 24,
+    "front": "Why can a clear exit route reduce rather than increase escalation risk?",
+    "back": "A person who does not feel physically trapped is often less likely to escalate, since a sense of being cornered is a significant driver of defensive aggression.",
+    "id": 375
+  },
+  {
+    "chapter": 24,
+    "front": "Why does a team designate a single verbal lead during an escalating situation?",
+    "back": "Multiple staff members speaking simultaneously with different tones or messages reliably increases confusion and agitation rather than providing calm, consistent communication.",
+    "id": 376
+  },
+  {
+    "chapter": 24,
+    "front": "What is the purpose of post-incident debriefing with the client?",
+    "back": "To let the client share their perspective on what led to escalation, what helped or did not help, and to gather insight for the ongoing care plan.",
+    "id": 377
+  },
+  {
+    "chapter": 24,
+    "front": "What is the purpose of staff debriefing after a crisis event?",
+    "back": "To review what worked and what could improve, process the emotional and physical toll of the response, and reduce staff burnout and compassion fatigue.",
+    "id": 378
+  },
+  {
+    "chapter": 24,
+    "front": "What historical event is closely tied to the early development of modern crisis theory?",
+    "back": "The 1942 Boston nightclub fire; a psychiatrist studying survivors' and bereaved families' grief reactions identified the predictable stages of acute crisis that became foundational to the field.",
+    "id": 379
+  },
+  {
+    "chapter": 25,
+    "front": "What does the Columbia-Suicide Severity Rating Scale distinguish?",
+    "back": "It distinguishes the severity of suicidal ideation, from a passive wish to be dead through active ideation with intent to a fully worked-out plan, and separately captures suicidal behaviours such as interrupted, aborted, and actual attempts.",
+    "id": 380
+  },
+  {
+    "chapter": 25,
+    "front": "What are the six components of the safety planning intervention, in order?",
+    "back": "Personal warning signs, internal coping strategies, social contacts and settings for distraction, people to ask for help directly, professional and agency contacts, and means restriction.",
+    "id": 381
+  },
+  {
+    "chapter": 25,
+    "front": "Why is asking a client directly about suicidal thoughts not dangerous?",
+    "back": "Evidence shows direct questioning does not increase risk or plant the idea; it gives the client permission to disclose thoughts they might otherwise hide out of shame or fear of overreaction.",
+    "id": 382
+  },
+  {
+    "chapter": 25,
+    "front": "What observation level is used for a client at acute, imminent suicide risk?",
+    "back": "Continuous one-to-one observation, with a staff member maintaining direct visual contact with the client at all times.",
+    "id": 383
+  },
+  {
+    "chapter": 25,
+    "front": "What are every-fifteen-minute checks used for?",
+    "back": "Clients with identified but not immediately acute risk; a staff member visually confirms location and presentation at intervals no longer than 15 minutes, documented at the time of each check.",
+    "id": 384
+  },
+  {
+    "chapter": 25,
+    "front": "Name two means restriction strategies for medication.",
+    "back": "Dispensing smaller, more frequent supplies rather than a full month at once, and having a family member hold and dispense daily doses during a high-risk period.",
+    "id": 385
+  },
+  {
+    "chapter": 25,
+    "front": "Why is the period immediately after psychiatric discharge high-risk for suicide?",
+    "back": "The loss of a structured, supervised environment and constant clinical contact, combined with returning to often unchanged stressors, elevates risk substantially in the days and weeks following discharge.",
+    "id": 386
+  },
+  {
+    "chapter": 25,
+    "front": "What is a recognized warning sign sometimes mistaken for clinical improvement?",
+    "back": "A rapid, unexplained lift in mood following severe depression, which can reflect a client's relief after settling on a suicide plan rather than genuine treatment response.",
+    "id": 387
+  },
+  {
+    "chapter": 25,
+    "front": "What historical and structural factors explain elevated suicide risk among Indigenous youth in Canada?",
+    "back": "Colonization, the residential school system, forced removal of children from families, and the resulting intergenerational trauma and loss of cultural continuity, not individual pathology.",
+    "id": 388
+  },
+  {
+    "chapter": 25,
+    "front": "What drives elevated suicide risk among 2SLGBTQ+ individuals?",
+    "back": "Minority stress: chronic exposure to discrimination, family rejection, bullying, and navigating health care systems that have not always been safe or affirming.",
+    "id": 389
+  },
+  {
+    "chapter": 25,
+    "front": "Why are older men an often underrecognized elevated-risk group for suicide?",
+    "back": "They frequently lack a documented prior psychiatric history, which lowers clinical suspicion, and are more likely to use a highly lethal method on a first attempt.",
+    "id": 390
+  },
+  {
+    "chapter": 25,
+    "front": "What should a complete suicide risk assessment note include?",
+    "back": "Specific risk and protective factors, the standardized tool used and the client's actual responses, the client's own words where relevant, the observation level and its rationale, and a plan for the next reassessment.",
+    "id": 391
+  },
+  {
+    "chapter": 25,
+    "front": "What is a protective factor a nurse should actively elicit, not just wait to hear?",
+    "back": "A client's own stated reasons for living, such as responsibility to dependents, social connectedness, or engagement with treatment; asking directly often surfaces these.",
+    "id": 392
+  },
+  {
+    "chapter": 25,
+    "front": "Why does a verbal handover of risk status matter beyond written charting?",
+    "back": "A written note does little good if the incoming nurse has not read the full chart before the shift starts, so a face-to-face report naming current risk level and observation status closes that gap.",
+    "id": 393
+  },
+  {
+    "chapter": 25,
+    "front": "What should means restriction counselling for firearms emphasize to a hesitant family?",
+    "back": "That temporary removal or secure storage during an acute crisis is a protective, time-limited measure, not a permanent judgment about firearm ownership rights.",
+    "id": 394
+  },
+  {
+    "chapter": 26,
+    "front": "What is the strongest static predictor of future violence?",
+    "back": "A documented history of prior violence, more predictive of future violence than diagnosis alone.",
+    "id": 395
+  },
+  {
+    "chapter": 26,
+    "front": "Give three examples of dynamic violence risk factors.",
+    "back": "Current agitation, active substance intoxication or withdrawal, and active psychotic symptoms such as command hallucinations or persecutory delusions directed at staff.",
+    "id": 396
+  },
+  {
+    "chapter": 26,
+    "front": "What does the least restrictive principle require?",
+    "back": "Any intervention limiting a client's freedom must be the minimum necessary, used for the shortest duration, and continuously reassessed rather than left in place once the justifying risk has passed.",
+    "id": 397
+  },
+  {
+    "chapter": 26,
+    "front": "Name three alternatives that should be tried before restraint.",
+    "back": "Verbal de-escalation, environmental modification such as reducing noise and stimulation, and offering the client genuine choices.",
+    "id": 398
+  },
+  {
+    "chapter": 26,
+    "front": "What distinguishes chemical restraint from legitimate pharmacological treatment?",
+    "back": "Whether the medication dose and purpose are driven by the client's clinical presentation and treatment needs, or by a desire to control behaviour for staff convenience.",
+    "id": 399
+  },
+  {
+    "chapter": 26,
+    "front": "What monitoring is required once a client is physically restrained?",
+    "back": "Continuous direct observation plus frequent documented checks of vital signs, circulation in restrained limbs, skin integrity, and level of consciousness.",
+    "id": 400
+  },
+  {
+    "chapter": 26,
+    "front": "What are the two distinct debriefings required after a restraint or seclusion episode?",
+    "back": "A client debriefing to hear their account and identify prevention opportunities, and a separate staff debriefing to process the event and review safety.",
+    "id": 401
+  },
+  {
+    "chapter": 26,
+    "front": "Does involuntary admission status alone authorize restraint or seclusion?",
+    "back": "No. The narrow safety indication of imminent risk of serious harm, not admission status, triggers legal authority for restraint or seclusion, regardless of voluntary or involuntary status.",
+    "id": 402
+  },
+  {
+    "chapter": 26,
+    "front": "What structured tool category formalizes violence risk assessment?",
+    "back": "Structured professional judgment tools assessing historical, clinical, and risk management variables together, integrated with overall clinical judgment rather than used as a pure numeric score.",
+    "id": 403
+  },
+  {
+    "chapter": 26,
+    "front": "Why can placement at a higher security level than needed violate the least restrictive principle?",
+    "back": "Hospitalization and security level are themselves restrictions of liberty, so placement beyond what current risk requires is an unjustified restriction even if it feels administratively safer.",
+    "id": 404
+  },
+  {
+    "chapter": 26,
+    "front": "What organizational features are associated with sustained reductions in restraint and seclusion rates?",
+    "back": "Leadership that reviews every episode, a real data system tracking patterns by unit, shift, and client, client and family involvement in review, and dedicated staff time for debriefing and training.",
+    "id": 405
+  },
+  {
+    "chapter": 26,
+    "front": "What is a trauma-informed consideration during de-escalation of an aggressive client?",
+    "back": "Recognizing that physical proximity without warning, a commanding tone, or feeling cornered can retraumatize a client with a trauma history, so asking what has helped before individualizes the approach.",
+    "id": 406
+  },
+  {
+    "chapter": 26,
+    "front": "What is a nonviolent crisis intervention program designed to teach?",
+    "back": "A consistent set of verbal de-escalation techniques, safe physical positioning, and, where necessary, safe physical intervention and release techniques minimizing injury to client and staff.",
+    "id": 407
+  },
+  {
+    "chapter": 26,
+    "front": "Why does staff safety directly support client safety during an aggressive incident?",
+    "back": "A staff member who is injured, frightened, or working in an unsafe environment cannot provide the calm, attentive care that de-escalation and least-restrictive management require.",
+    "id": 408
+  },
+  {
+    "chapter": 26,
+    "front": "What legal authority governs restraint and seclusion in Canada?",
+    "back": "Each province's Mental Health Act provides the general legal authority, typically requiring a physician's order, a defined maximum duration before renewal, and documented clinical justification.",
+    "id": 409
+  },
+  {
+    "chapter": 27,
+    "front": "What are the three reflective practice tools described for psychiatric nurses?",
+    "back": "Reflective journaling, clinical supervision, and peer review, each offering a different way of examining clinical experience to change future practice.",
+    "id": 410
+  },
+  {
+    "chapter": 27,
+    "front": "What are the six stages of Gibbs' reflective cycle?",
+    "back": "Description, feelings, evaluation, analysis, conclusion, and action plan.",
+    "id": 411
+  },
+  {
+    "chapter": 27,
+    "front": "What is the difference between reflection-in-action and reflection-on-action?",
+    "back": "Reflection-in-action is the rapid adjustment made while a situation is still unfolding; reflection-on-action is deliberate review after the fact, which reshapes future practice.",
+    "id": 412
+  },
+  {
+    "chapter": 27,
+    "front": "Define the three just culture behaviour categories.",
+    "back": "Human error, an unintentional slip while trying to do the right thing, warrants support; at-risk behaviour, a risky choice made without fully recognizing the risk, warrants coaching; reckless behaviour, a conscious disregard of known risk, warrants discipline.",
+    "id": 413
+  },
+  {
+    "chapter": 27,
+    "front": "Why does a just culture evaluate the choice rather than the outcome?",
+    "back": "An identical at-risk choice can produce a near miss or serious harm purely by chance, so fair accountability assesses the behaviour itself, not how badly it happened to turn out.",
+    "id": 414
+  },
+  {
+    "chapter": 27,
+    "front": "What is the purpose of a root cause analysis after a serious incident?",
+    "back": "To look past the individual's proximate action and identify system-level conditions, staffing, environment, equipment, or communication, that made the error more likely for any reasonable person.",
+    "id": 415
+  },
+  {
+    "chapter": 27,
+    "front": "Name two psychiatric-specific falls risk factors.",
+    "back": "Sedating medications such as antipsychotics and benzodiazepines causing drowsiness and orthostatic hypotension, and cognitive impairment in older adults affecting judgment about physical limitations.",
+    "id": 416
+  },
+  {
+    "chapter": 27,
+    "front": "Why can a bed alarm be problematic on a psychiatric unit?",
+    "back": "It can feel intrusive, punitive, or infantilizing to a psychiatric client, so its use should be explained and carefully considered rather than applied automatically.",
+    "id": 417
+  },
+  {
+    "chapter": 27,
+    "front": "At which three points does medication reconciliation occur?",
+    "back": "Admission, internal transfer between units, and discharge, with discharge being the most safety-critical since errors there occur outside clinical observation.",
+    "id": 418
+  },
+  {
+    "chapter": 27,
+    "front": "Name three high-alert medications in psychiatric care requiring an independent double-check.",
+    "back": "Lithium, clozapine, and long-acting injectable antipsychotics.",
+    "id": 419
+  },
+  {
+    "chapter": 27,
+    "front": "What are the four phases of the Plan-Do-Study-Act cycle?",
+    "back": "Plan, identify a problem and a testable change with a prediction; Do, test on a small scale; Study, compare results to the prediction; Act, adopt, adapt, or abandon the change.",
+    "id": 420
+  },
+  {
+    "chapter": 27,
+    "front": "How should a nurse apply a clinical practice guideline built from a different population?",
+    "back": "Understand the evidence base and population the guideline came from, then apply its underlying principle thoughtfully to the specific client rather than following it mechanically regardless of fit.",
+    "id": 421
+  },
+  {
+    "chapter": 27,
+    "front": "Distinguish burnout from secondary traumatic stress.",
+    "back": "Burnout is emotional exhaustion, cynicism, and reduced sense of accomplishment from chronic unrelieved stress; secondary traumatic stress arises specifically from repeated exposure to others' traumatic material and can resemble post-traumatic stress symptoms.",
+    "id": 422
+  },
+  {
+    "chapter": 27,
+    "front": "What is moral distress?",
+    "back": "Distress that arises when a nurse knows the ethically or clinically appropriate action but feels constrained by policy, resources, or a team decision from actually carrying it out.",
+    "id": 423
+  },
+  {
+    "chapter": 27,
+    "front": "Name two organizational-level mitigation strategies for occupational hazards in psychiatric nursing.",
+    "back": "Adequate staffing that avoids a chronic unsustainable workload, and structured, genuinely accessible debriefing after a difficult or violent incident.",
+    "id": 424
+  },
+  {
+    "chapter": 27,
+    "front": "Why should client and family voice be built into the Plan-Do-Study-Act cycle itself?",
+    "back": "Clients hold firsthand knowledge of where a process actually breaks down, so including their voice from the Plan phase prevents solving a problem the team assumes exists rather than the one clients actually encounter.",
+    "id": 425
+  },
+  {
+    "chapter": 28,
+    "front": "Name the six core principles of trauma-informed care.",
+    "back": "Safety; trustworthiness and transparency; peer support; collaboration and mutuality; empowerment, voice, and choice; and cultural, historical, and gender sensitivity.",
+    "id": 426
+  },
+  {
+    "chapter": 28,
+    "front": "How does trauma-informed care as a system-wide philosophy differ from trauma-informed communication in a single encounter?",
+    "back": "It reshapes an organization's environment, policy, and default practices for every client, since most trauma is never formally disclosed, rather than being applied only in individual conversations after disclosure.",
+    "id": 427
+  },
+  {
+    "chapter": 28,
+    "front": "What does psychological safety in a trauma-informed unit depend on?",
+    "back": "Predictable staff behaviour, consistent rule enforcement, and freedom from raised voices, confrontations, or unpredictable staff moods, not just the physical security of the building.",
+    "id": 428
+  },
+  {
+    "chapter": 28,
+    "front": "What organization formalized the widely used trauma-informed care framework?",
+    "back": "The United States Substance Abuse and Mental Health Services Administration formalized the six principles in the early 2010s; Canada later adapted it with explicit attention to Indigenous intergenerational trauma.",
+    "id": 429
+  },
+  {
+    "chapter": 28,
+    "front": "What distinguishes clinical recovery from personal recovery?",
+    "back": "Clinical recovery is defined by the treatment team using standardized symptom and functional measures; personal recovery is defined by the client according to their own sense of a life worth living, and the two do not always move together.",
+    "id": 430
+  },
+  {
+    "chapter": 28,
+    "front": "What does the Recovery Model identify as central to a life worth living, beyond symptom control?",
+    "back": "Meaning and purpose across relationships, work, spirituality, creative pursuits, and community involvement, with symptom management as one means toward these goals rather than the end goal itself.",
+    "id": 431
+  },
+  {
+    "chapter": 28,
+    "front": "What does the Individual Placement and Support model of supported employment emphasize?",
+    "back": "Rapid job search based on the client's own preferences rather than lengthy prevocational training, plus ongoing support that continues after employment begins, integrated with the clinical treatment team.",
+    "id": 432
+  },
+  {
+    "chapter": 28,
+    "front": "What is the clubhouse model of community integration?",
+    "back": "A structured, voluntary community, originating with the Fountain House model, where members participate in the program's actual daily operation, building skills and belonging rather than being purely service recipients.",
+    "id": 433
+  },
+  {
+    "chapter": 28,
+    "front": "What does family psychoeducation teach family members?",
+    "back": "The client's condition, realistic expectations for recovery, communication strategies that reduce household conflict, and how to recognize early warning signs of relapse.",
+    "id": 434
+  },
+  {
+    "chapter": 28,
+    "front": "How do trauma-informed and recovery-oriented principles reduce reliance on restraint and seclusion?",
+    "back": "A predictable environment with genuine choice lowers baseline agitation, and staff who know a client's identified triggers can intervene earlier with a less restrictive response before escalation reaches a crisis point.",
+    "id": 435
+  },
+  {
+    "chapter": 28,
+    "front": "Give an example of empowering choice restored in daily inpatient care.",
+    "back": "Offering a client a genuine choice about small things, such as where to sit or the order of morning tasks, which restores a measure of control that trauma and hospitalization can otherwise take away.",
+    "id": 436
+  },
+  {
+    "chapter": 28,
+    "front": "What is a gender-sensitivity consideration in trauma-informed care?",
+    "back": "Asking about room assignment preferences and offering choice about the gender of staff performing a physical examination or search, since routine practices can retraumatize survivors of sexual or intimate partner violence.",
+    "id": 437
+  },
+  {
+    "chapter": 28,
+    "front": "Why does continuity of staff assignment support trustworthiness?",
+    "back": "A client who consistently works with a small, familiar group of staff builds an accumulating sense of predictability, which is especially therapeutic for a client whose trauma involved unpredictable caregiving figures.",
+    "id": 438
+  },
+  {
+    "chapter": 28,
+    "front": "What professional accountability do Canadian regulatory colleges increasingly attach to trauma-informed care?",
+    "back": "Many now reference trauma-informed principles directly in standards of practice and codes of ethics, making it an expected baseline of competent practice rather than an optional specialty program.",
+    "id": 439
+  },
+  {
+    "chapter": 28,
+    "front": "What is an example of trauma-informed care applied to an everyday nursing task?",
+    "back": "Knocking, announcing oneself, and asking permission before entering a client's room or making physical contact, even for a routine task like taking vital signs.",
+    "id": 440
+  },
+  {
+    "chapter": 29,
+    "front": "What does the interprofessional Collaborative Practice competency ask an RPN to do beyond being cooperative with colleagues?",
+    "back": "It asks the RPN to understand each team member's role, communicate clearly across disciplines, participate in shared decision-making, address team conflict, and lead care coordination.",
+    "id": 441
+  },
+  {
+    "chapter": 29,
+    "front": "Why does a psychiatrist depend heavily on the RPN's documented observations between direct visits?",
+    "back": "A psychiatrist's contact time with any one client is often limited to brief periodic assessments, so the RPN's continuous observation captures clinically important changes in between.",
+    "id": 442
+  },
+  {
+    "chapter": 29,
+    "front": "What two distinct contributions does a psychologist typically bring to a mental health team?",
+    "back": "Structured psychological assessment, such as standardized cognitive or diagnostic testing, and specialized, protocol-driven psychotherapy such as CBT or DBT.",
+    "id": 443
+  },
+  {
+    "chapter": 29,
+    "front": "What is the social worker's primary focus on an interprofessional psychiatric team?",
+    "back": "The client's social context, including family dynamics, housing, income supports, and connection to community resources, especially during discharge planning.",
+    "id": 444
+  },
+  {
+    "chapter": 29,
+    "front": "What does an occupational therapist assess that a symptom-focused psychiatric assessment can miss?",
+    "back": "The client's functional capacity to perform meaningful daily activities such as self-care, household management, work, and leisure, which can remain impaired even after symptoms improve.",
+    "id": 445
+  },
+  {
+    "chapter": 29,
+    "front": "What is a peer support worker's primary professional qualification?",
+    "back": "Lived experience of mental illness or addiction, combined with specific training in using that experience to support another person's recovery.",
+    "id": 446
+  },
+  {
+    "chapter": 29,
+    "front": "What does the acronym SBAR stand for?",
+    "back": "Situation, Background, Assessment, Recommendation, a structured framework for handoff and urgent interprofessional communication.",
+    "id": 447
+  },
+  {
+    "chapter": 29,
+    "front": "Why is SBAR especially valuable during a time-pressured or urgent communication?",
+    "back": "Its fixed structure makes a nurse far less likely to omit critical information than an unstructured, conversational report would.",
+    "id": 448
+  },
+  {
+    "chapter": 29,
+    "front": "What does shared decision-making require beyond simply informing a client of a treatment plan?",
+    "back": "Actively soliciting the client's values, preferences, and past treatment experience, and weighing them alongside clinical recommendations to build the plan collaboratively.",
+    "id": 449
+  },
+  {
+    "chapter": 29,
+    "front": "What is the first step in resolving conflict between disagreeing team members?",
+    "back": "Bringing the parties together to state their specific concerns and clinical reasoning, focused on the client's actual best interest as the shared reference point.",
+    "id": 450
+  },
+  {
+    "chapter": 29,
+    "front": "Why is the RPN often the provider who convenes a needed team conflict-resolution discussion?",
+    "back": "Because the RPN typically holds the most continuous, real-time picture of the client across an entire admission.",
+    "id": 451
+  },
+  {
+    "chapter": 29,
+    "front": "How does a consumer-led or peer-run initiative differ from a role a credentialed clinician can fill?",
+    "back": "It offers direct, first-person testimony that recovery is possible, delivered by someone who has lived through a comparable experience, which clinical training alone cannot replicate.",
+    "id": 452
+  },
+  {
+    "chapter": 29,
+    "front": "What risk does discharging a client based on only one discipline's assessment create?",
+    "back": "It can overlook functional readiness or practical resource gaps identified by other disciplines, risking a discharge plan that reproduces the client's original crisis.",
+    "id": 453
+  },
+  {
+    "chapter": 29,
+    "front": "What professional origin does the SBAR framework come from outside health care?",
+    "back": "It was adapted from a communication protocol developed for the United States Navy's nuclear submarine service.",
+    "id": 454
+  },
+  {
+    "chapter": 29,
+    "front": "Which Canadian body formally recommends SBAR as a standard clinical communication tool?",
+    "back": "The Canadian Patient Safety Institute.",
+    "id": 455
+  },
+  {
+    "chapter": 30,
+    "front": "What is the RPNCE Advocacy competency built around?",
+    "back": "Using professional expertise and influence to support a client's health and wellbeing at both the individual and community level.",
+    "id": 456
+  },
+  {
+    "chapter": 30,
+    "front": "What core rights does Canadian mental health legislation typically give a client, including one detained involuntarily?",
+    "back": "The right to be informed of the reason for treatment or detention, access to a formal appeal or review process, access to legal counsel or an advocate, and informed consent when the client has capacity.",
+    "id": 457
+  },
+  {
+    "chapter": 30,
+    "front": "What does the principle of a client's 'right to live at risk' mean?",
+    "back": "A capable client's autonomous choice, even one carrying meaningful risk, should be respected and supported with full information rather than overridden by the team.",
+    "id": 458
+  },
+  {
+    "chapter": 30,
+    "front": "What does promoting the 'least restrictive treatment and environment' mean in practice?",
+    "back": "Advocating against an unnecessarily restrictive intervention, hospital stay, observation level, or living arrangement whenever a less restrictive option meets the client's clinical needs equally well.",
+    "id": 459
+  },
+  {
+    "chapter": 30,
+    "front": "What is resource advocacy, and why does it require follow-up beyond making a referral?",
+    "back": "Resource advocacy means working to secure housing, income, and treatment access; following up confirms a referral actually resulted in a connection rather than assuming the task ended at referral.",
+    "id": 460
+  },
+  {
+    "chapter": 30,
+    "front": "What is public stigma?",
+    "back": "Negative attitudes, stereotypes, and discriminatory behaviour that the general public holds toward people with mental illness.",
+    "id": 461
+  },
+  {
+    "chapter": 30,
+    "front": "What is the most consistently effective evidence-informed strategy for reducing public stigma?",
+    "back": "Contact-based strategies, where the public interacts directly with a person sharing their own lived experience.",
+    "id": 462
+  },
+  {
+    "chapter": 30,
+    "front": "What is structural stigma?",
+    "back": "Stigma embedded in policies, institutional practices, or funding decisions, such as reduced insurance coverage for mental health treatment, regardless of any individual staff member's personal beliefs.",
+    "id": 463
+  },
+  {
+    "chapter": 30,
+    "front": "What is self-stigma and what clinical consequence does it commonly produce?",
+    "back": "Self-stigma is internalizing negative public attitudes about one's own mental illness; it commonly reduces self-esteem and willingness to seek or continue treatment.",
+    "id": 464
+  },
+  {
+    "chapter": 30,
+    "front": "What is reflective practice used for in reducing self-stigma?",
+    "back": "It is a tool an RPN uses to examine their own language and assumptions for subtle stigmatizing patterns that can go unnoticed even among well-intentioned providers.",
+    "id": 465
+  },
+  {
+    "chapter": 30,
+    "front": "What is the recommended alternative to using a client's family member as an informal interpreter?",
+    "back": "Arranging a qualified, appropriate interpretation service, avoiding an inappropriate burden on the family member and reducing the risk of inaccurate communication.",
+    "id": 466
+  },
+  {
+    "chapter": 30,
+    "front": "What relationship exists between poverty and mental illness as a social determinant of health?",
+    "back": "A well-documented bidirectional relationship: poverty increases the risk of developing mental illness, and mental illness can reduce a person's capacity to maintain stable income.",
+    "id": 467
+  },
+  {
+    "chapter": 30,
+    "front": "Name three marginalized populations that face compounded barriers to culturally safe mental health care.",
+    "back": "Indigenous peoples affected by colonization and residential schools, newcomers and refugees, and people experiencing homelessness or involved in the criminal justice system.",
+    "id": 468
+  },
+  {
+    "chapter": 30,
+    "front": "What is the difference between individual-level and community-level social-justice advocacy?",
+    "back": "Individual-level advocacy reduces a specific client's access barriers; community-level advocacy addresses the upstream systems and policies driving mental health inequities across a population.",
+    "id": 469
+  },
+  {
+    "chapter": 30,
+    "front": "Why can a signed rights information form completed during acute psychosis fail to satisfy a client's actual right to understand their status?",
+    "back": "A form signed while acutely unwell does not ensure the client genuinely understood it; rights information should be revisited once the client's capacity to engage has improved.",
+    "id": 470
+  },
+  {
+    "chapter": 31,
+    "front": "What are the five stages in the Transtheoretical (Stages of Change) Model?",
+    "back": "Precontemplation, contemplation, preparation, action, and maintenance, with relapse recognized as an expected part of the overall process.",
+    "id": 471
+  },
+  {
+    "chapter": 31,
+    "front": "Why does an action-oriented intervention often fail with a client in the precontemplation stage?",
+    "back": "The intervention is mismatched to the client's actual readiness; precontemplation calls for raising awareness and exploring ambivalence rather than pushing toward immediate action.",
+    "id": 472
+  },
+  {
+    "chapter": 31,
+    "front": "List the five dimensions of the Health Belief Model.",
+    "back": "Perceived susceptibility, perceived severity, perceived benefits, perceived barriers, and cues to action.",
+    "id": 473
+  },
+  {
+    "chapter": 31,
+    "front": "What can prevent a person from acting on a healthy behaviour even when they hold every supportive belief?",
+    "back": "Perceived barriers outweighing perceived benefits, or the absence of a specific cue to action.",
+    "id": 474
+  },
+  {
+    "chapter": 31,
+    "front": "What key concept did Albert Bandura's Social Learning Theory introduce as a strong predictor of behaviour change?",
+    "back": "Self-efficacy, a person's belief in their own capacity to successfully perform a specific behaviour.",
+    "id": 475
+  },
+  {
+    "chapter": 31,
+    "front": "How does a peer support worker's story of managing a chronic illness function under Social Learning Theory?",
+    "back": "As a model whose demonstrated success can build a client's own belief that similar success is achievable for them.",
+    "id": 476
+  },
+  {
+    "chapter": 31,
+    "front": "What distinguishes a health inequity from a general health inequality?",
+    "back": "A health inequity is avoidable, unfair, and systematically associated with social disadvantage; a health inequality is any measurable difference regardless of cause.",
+    "id": 477
+  },
+  {
+    "chapter": 31,
+    "front": "What is the predominant driver of reduced life expectancy among people with serious mental illness such as schizophrenia?",
+    "back": "Cardiovascular disease, not the psychiatric illness itself or suicide.",
+    "id": 478
+  },
+  {
+    "chapter": 31,
+    "front": "What is diagnostic overshadowing?",
+    "back": "Incorrectly attributing a physical health complaint to a client's psychiatric illness rather than properly investigating it, a documented barrier to physical care for people with serious mental illness.",
+    "id": 479
+  },
+  {
+    "chapter": 31,
+    "front": "What is the core philosophy behind harm reduction as a health promotion strategy?",
+    "back": "Meeting clients where they are, reducing negative health and social consequences of a behaviour rather than requiring abstinence as a precondition for care.",
+    "id": 480
+  },
+  {
+    "chapter": 31,
+    "front": "Give two examples of harm reduction interventions for opioid or injection drug use.",
+    "back": "Methadone maintenance (opioid agonist) treatment and needle exchange programs providing sterile injection equipment.",
+    "id": 481
+  },
+  {
+    "chapter": 31,
+    "front": "What is nicotine replacement therapy used for as a harm reduction strategy?",
+    "back": "It reduces harm from continued tobacco use by providing nicotine without combustion products, useful both as a step toward cessation and as an ongoing harm reduction measure.",
+    "id": 482
+  },
+  {
+    "chapter": 31,
+    "front": "What is postvention?",
+    "back": "Organized community support activity occurring after a suicide, aimed at supporting those affected and reducing the risk of subsequent suicides, including suicide clusters.",
+    "id": 483
+  },
+  {
+    "chapter": 31,
+    "front": "Where and when did Canada's first legally sanctioned supervised consumption site, Insite, open?",
+    "back": "In Vancouver's Downtown Eastside in 2003.",
+    "id": 484
+  },
+  {
+    "chapter": 31,
+    "front": "Give one example of the RPN's role in systems-level health promotion policy.",
+    "back": "Identifying a gap such as inconsistent metabolic monitoring on a unit and raising it through institutional channels to strengthen the protocol.",
+    "id": 485
+  },
+  {
+    "chapter": 32,
+    "front": "Is mental health legislation in Canada a federal or provincial matter?",
+    "back": "Provincial. Each of the four provinces with the RPN designation has its own mental health act, sharing a common general structure rather than one uniform national law.",
+    "id": 486
+  },
+  {
+    "chapter": 32,
+    "front": "Name the four common structural elements shared across provincial mental health acts.",
+    "back": "Defined involuntary admission criteria, a physician certification process, mandatory periodic review of the involuntary status, and an independent review board a client can appeal to.",
+    "id": 487
+  },
+  {
+    "chapter": 32,
+    "front": "Why is capacity described as decision-specific rather than a fixed global trait?",
+    "back": "A client can have capacity for one decision while lacking it for another, and capacity can improve or fluctuate over time, so it is assessed for the specific decision at hand.",
+    "id": 488
+  },
+  {
+    "chapter": 32,
+    "front": "What is substituted judgment?",
+    "back": "The standard a substitute decision-maker applies when a client's previously expressed wishes are known: making the decision the client would have made if still capable.",
+    "id": 489
+  },
+  {
+    "chapter": 32,
+    "front": "When a client's own prior wishes are not known, what standard does a substitute decision-maker apply instead?",
+    "back": "A best-interests standard.",
+    "id": 490
+  },
+  {
+    "chapter": 32,
+    "front": "When does the legislated duty to report override a client's general right to confidentiality?",
+    "back": "In circumstances such as suspected child abuse or neglect, and reasonable grounds to believe a colleague is practicing unsafely or unethically.",
+    "id": 491
+  },
+  {
+    "chapter": 32,
+    "front": "Name the four provincial RPN regulatory colleges.",
+    "back": "College of Registered Psychiatric Nurses of British Columbia (CRPNBC), College of Registered Psychiatric Nurses of Alberta (CRPNA), Registered Psychiatric Nurses Association of Saskatchewan (RPNAS), and College of Registered Psychiatric Nurses of Manitoba (CRPNM).",
+    "id": 492
+  },
+  {
+    "chapter": 32,
+    "front": "What is the difference between a code of ethics and standards of practice?",
+    "back": "A code of ethics states broad underlying values; standards of practice describe specific, concrete expectations for competent practice such as documentation and medication protocols.",
+    "id": 493
+  },
+  {
+    "chapter": 32,
+    "front": "Give three examples of a professional boundary violation.",
+    "back": "A romantic or sexual relationship with a current client, accepting significant personal gifts that blur the relationship, or exploiting a client's financial, emotional, or sexual vulnerability.",
+    "id": 494
+  },
+  {
+    "chapter": 32,
+    "front": "What is boundary blurring, and why does it matter?",
+    "back": "Early warning signs of a boundary crossing, such as unscheduled personal time with a client, that should be addressed proactively before developing into an actual violation.",
+    "id": 495
+  },
+  {
+    "chapter": 32,
+    "front": "List the four expected qualities of professional documentation.",
+    "back": "Timely, accurate, clear and concise, and legible.",
+    "id": 496
+  },
+  {
+    "chapter": 32,
+    "front": "What is self-regulation, and what obligation does it carry?",
+    "back": "A profession's authority to set and enforce its own entry, practice, and disciplinary standards, paired with an obligation to prioritize public protection over the interests of its own members.",
+    "id": 497
+  },
+  {
+    "chapter": 32,
+    "front": "What does fitness to practice refer to?",
+    "back": "An RPN's current capacity to practice safely and competently, considering clinical knowledge and skill as well as physical and mental health.",
+    "id": 498
+  },
+  {
+    "chapter": 32,
+    "front": "What should an RPN do upon receiving a medication order believed to contain a dangerous dosing error?",
+    "back": "Contact the ordering provider directly to seek clarification before administering, and escalate through the appropriate channel if the concern is not resolved.",
+    "id": 499
+  },
+  {
+    "chapter": 32,
+    "front": "Does carrying out an order originating from a physician transfer away the nurse's own accountability for the resulting harm?",
+    "back": "No. An RPN retains independent professional accountability for the care actually provided, regardless of who issued the original order.",
+    "id": 500
+  }
+]
